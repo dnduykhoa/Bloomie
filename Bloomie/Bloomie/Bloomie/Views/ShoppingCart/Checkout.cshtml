@@ -1,0 +1,112 @@
+﻿@using Bloomie.Models.Entities;
+
+@model Order
+
+<div class="container mt-5">
+    <h2 class="text-center mb-5 text-primary fw-bold display-5">
+        <i class="bi bi-truck me-2"></i> Thanh toán đơn hàng
+    </h2>
+
+    <div class="card shadow-lg rounded p-4">
+        <form asp-action="Checkout" method="post">
+            <div class="mb-4">
+                <label asp-for="ShippingAddress" class="form-label fw-bold text-dark">
+                    <i class="bi bi-geo-alt me-2"></i> Địa chỉ giao hàng
+                </label>
+                <input asp-for="ShippingAddress" class="form-control rounded shadow-sm" placeholder="Nhập địa chỉ của bạn" />
+                <span asp-validation-for="ShippingAddress" class="text-danger"></span>
+            </div>
+
+            <div class="mb-4">
+                <label asp-for="Notes" class="form-label fw-bold text-dark">
+                    <i class="bi bi-sticky me-2"></i> Ghi chú đơn hàng
+                </label>
+                <textarea asp-for="Notes" class="form-control rounded shadow-sm" rows="3" placeholder="Nhập ghi chú nếu có..."></textarea>
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary-custom px-5 py-2 fw-bold shadow-sm">
+                    <i class="bi bi-check-circle me-2"></i> Đặt hàng ngay
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<style>
+    /* Style cho tiêu đề */
+    .text-primary {
+        color: #4682b4 !important;
+    }
+
+    /* Style cho card */
+    .card {
+        border: none;
+        border-radius: 12px;
+        background-color: #fff;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+        .card .p-4 {
+            padding: 30px !important;
+        }
+
+    /* Style cho form label */
+    .form-label {
+        font-size: 1.1rem;
+        color: #2d3436;
+        margin-bottom: 10px;
+    }
+
+    /* Style cho input và textarea */
+    .form-control {
+        font-size: 1.05rem;
+        padding: 12px 15px;
+        border: 1px solid #dee2e6;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+        color: #2d3436;
+    }
+
+        .form-control:focus {
+            border-color: #4682b4;
+            box-shadow: 0 0 8px rgba(70, 130, 180, 0.2);
+            outline: none;
+        }
+
+        .form-control::placeholder {
+            color: #adb5bd;
+            font-style: italic;
+        }
+
+    /* Style cho thông báo lỗi */
+    .text-danger {
+        font-size: 0.9rem;
+        margin-top: 5px;
+    }
+
+    /* Style cho nút Đặt hàng ngay */
+    .btn-primary-custom {
+        background-color: #4682b4; /* Xanh dương */
+        border-color: #4682b4;
+        color: #fff;
+        padding: 12px 24px;
+        font-size: 1.05rem;
+        font-weight: 600;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-primary-custom:hover {
+            background-color: #3a6d9a; /* Xanh dương đậm hơn khi hover */
+            border-color: #3a6d9a;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+</style>
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

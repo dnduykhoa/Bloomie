@@ -1,0 +1,275 @@
+﻿@page
+@model RegisterModel
+
+@{
+    ViewData["Title"] = "Đăng ký - Bloomie";
+    Layout = "~/Views/Shared/_IdentityLayout.cshtml";
+}
+
+<style>
+    /* General Styles */
+    body {
+        font-family: 'Lora', serif;
+        background: #ffffff; /* White background */
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* Main Container */
+    .register-page-container {
+        display: flex;
+        max-width: 900px;
+        width: 100%;
+        background: white;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Left Section (Introduction) */
+    .intro-section {
+        flex: 1;
+        background: linear-gradient(135deg, rgba(0, 0, 0, 0.4), rgba(255, 182, 193, 0.3)), url('https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80') no-repeat center center;
+        background-size: cover;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: white;
+    }
+
+        .intro-section h2 {
+            font-size: 2.2rem;
+            font-weight: 600;
+            margin-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+        }
+
+        .intro-section p {
+            font-size: 1rem;
+            opacity: 0.95;
+        }
+
+    /* Right Section (Register Form) */
+    .register-section {
+        flex: 1;
+        padding: 40px;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+        .register-section h2 {
+            font-size: 1.6rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #ff9999;
+            text-align: center;
+        }
+
+    .form-floating input,
+    .form-floating select {
+        border-radius: 10px;
+        border: 1px solid #e0e0e0;
+        padding: 12px 15px;
+        font-size: 0.9rem;
+        background: #fffafa;
+        transition: border-color 0.3s ease;
+        font-family: 'Lora', serif;
+    }
+
+        .form-floating input:focus,
+        .form-floating select:focus {
+            border-color: #ffb6c1;
+            box-shadow: none;
+            background: white;
+        }
+
+    .form-floating label {
+        padding-left: 15px;
+        color: #777;
+        font-size: 0.9rem;
+        font-family: 'Lora', serif;
+    }
+
+    .form-check {
+        margin: 15px 0;
+    }
+
+    .form-check-label {
+        color: #666;
+        font-size: 0.85rem;
+        font-family: 'Lora', serif;
+    }
+
+    .btn-primary {
+        background-color: #ffb6c1;
+        border: none;
+        border-radius: 30px;
+        padding: 12px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        transition: background-color 0.3s ease;
+        font-family: 'Lora', serif;
+    }
+
+        .btn-primary:hover {
+            background-color: #ff8c99;
+        }
+
+    .text-center a {
+        color: #ffb6c1;
+        font-weight: 500;
+        text-decoration: none;
+        transition: color 0.3s ease;
+        font-family: 'Lora', serif;
+    }
+
+        .text-center a:hover {
+            color: #ff8c99;
+        }
+
+    .text-center p {
+        color: #666;
+        font-size: 0.85rem;
+        margin: 10px 0;
+        font-family: 'Lora', serif;
+    }
+
+    /* External Login Buttons */
+    .external-login-buttons {
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .btn-external {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+        .btn-external img {
+            width: 30px;
+            height: 30px;
+        }
+
+    .btn-google {
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+    }
+
+        .btn-google:hover {
+            background-color: #f1f1f1;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+    .btn-facebook {
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+    }
+
+        .btn-facebook:hover {
+            background-color: #f1f1f1;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+
+    .btn-telegram {
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+    }
+
+        .btn-telegram:hover {
+            background-color: #f1f1f1;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+        }
+</style>
+
+<div class="register-page-container">
+    <!-- Left Section: Introduction -->
+    <div class="intro-section">
+        <h2>Chào mừng đến với Bloomie</h2>
+        <p>Đăng ký để trở thành một phần của Bloomie, nơi bạn có thể khám phá và mang về những bó hoa tuyệt đẹp từ thiên nhiên.</p>
+    </div>
+
+    <!-- Right Section: Register Form -->
+    <div class="register-section">
+        <h2>Đăng ký tại Bloomie</h2>
+
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.FullName" class="form-control" autocomplete="fullname" aria-required="true" placeholder="Nguyễn Thị Hoa" />
+                <label asp-for="Input.FullName">Họ tên</label>
+                <span asp-validation-for="Input.FullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Input.Email">Email</label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.PhoneNumber" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label asp-for="Input.PhoneNumber">Số điện thoại</label>
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.Password" type="password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.Password">Mật khẩu</label>
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating mb-3">
+                <input asp-for="Input.ConfirmPassword" type="password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
+                <label asp-for="Input.ConfirmPassword">Xác nhận mật khẩu</label>
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-primary">Đăng ký</button>
+        </form>
+
+        <div class="text-center mt-3">
+            <p>Hoặc đăng ký bằng</p>
+            <div class="external-login-buttons">
+                <!-- Google Button -->
+                <a asp-page-handler="ExternalLogin" asp-route-provider="Google" asp-route-returnUrl="@Model.ReturnUrl" class="btn-external btn-google">
+                    <img src="https://www.google.com/favicon.ico" alt="Google Logo">
+                </a>
+                <!-- Facebook Button -->
+                <a asp-page-handler="ExternalLogin" asp-route-provider="Facebook" asp-route-returnUrl="@Model.ReturnUrl" class="btn-external btn-facebook">
+                    <img src="https://www.facebook.com/favicon.ico" alt="Facebook Logo">
+                </a>
+                <!-- Telegram Button -->
+                <a asp-page-handler="ExternalLogin" asp-route-provider="Telegram" asp-route-returnUrl="@Model.ReturnUrl" class="btn-external btn-telegram">
+                    <img src="https://telegram.org/img/favicon.ico" alt="Telegram Logo">
+                </a>
+            </div>
+        </div>
+
+        <div class="text-center mt-3">
+            <p>Đã có tài khoản? <a asp-page="./Login" class="text-decoration-none">Đăng nhập ngay</a></p>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<!-- Thêm link Google Fonts cho Lora -->
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">

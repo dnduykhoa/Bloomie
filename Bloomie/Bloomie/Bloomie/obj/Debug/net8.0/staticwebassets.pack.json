@@ -1,0 +1,1157 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bloomie.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bloomie.w6fzl9nq4l.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\014d03dd-90bb-4d1c-b57b-28a62aaf60fc.webp",
+      "PackagePath": "staticwebassets\\images\\014d03dd-90bb-4d1c-b57b-28a62aaf60fc.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\024bb24f-74aa-4d4e-9e54-88105bc5596f.webp",
+      "PackagePath": "staticwebassets\\images\\024bb24f-74aa-4d4e-9e54-88105bc5596f.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0251269b-2b99-459b-9fba-1155e15d6032.webp",
+      "PackagePath": "staticwebassets\\images\\0251269b-2b99-459b-9fba-1155e15d6032.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\02c5cff4-a5fb-4b8f-b71d-e4abc5c4da97.jpg",
+      "PackagePath": "staticwebassets\\images\\02c5cff4-a5fb-4b8f-b71d-e4abc5c4da97.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\04a8c142-dbd4-48a7-8681-e2d852d840ef.webp",
+      "PackagePath": "staticwebassets\\images\\04a8c142-dbd4-48a7-8681-e2d852d840ef.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0545fd69-2437-4a3b-851b-741270784830.jpg",
+      "PackagePath": "staticwebassets\\images\\0545fd69-2437-4a3b-851b-741270784830.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\06a8bdfb-e3f6-4644-a728-7c5e621585c9.jpg",
+      "PackagePath": "staticwebassets\\images\\06a8bdfb-e3f6-4644-a728-7c5e621585c9.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\06cc9603-4a29-4adc-bcaf-9c0038a26c7a.webp",
+      "PackagePath": "staticwebassets\\images\\06cc9603-4a29-4adc-bcaf-9c0038a26c7a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\070f95cd-7f4b-43f8-a33a-1af1347b84ab.webp",
+      "PackagePath": "staticwebassets\\images\\070f95cd-7f4b-43f8-a33a-1af1347b84ab.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\07fcf560-05f5-4829-b81a-d1c5881ba2cc.webp",
+      "PackagePath": "staticwebassets\\images\\07fcf560-05f5-4829-b81a-d1c5881ba2cc.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\08243cc8-7393-4876-871b-bd9916bd3c40.webp",
+      "PackagePath": "staticwebassets\\images\\08243cc8-7393-4876-871b-bd9916bd3c40.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\08baca5b-6e5b-4e49-9d75-1a417f4c63ac.webp",
+      "PackagePath": "staticwebassets\\images\\08baca5b-6e5b-4e49-9d75-1a417f4c63ac.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\090c736f-206d-4563-a0d4-d0330332df58.webp",
+      "PackagePath": "staticwebassets\\images\\090c736f-206d-4563-a0d4-d0330332df58.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\09b3eb7d-bf4a-4ca9-a2c3-9092f3cfa5f9.webp",
+      "PackagePath": "staticwebassets\\images\\09b3eb7d-bf4a-4ca9-a2c3-9092f3cfa5f9.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0bc829f6-436e-45b5-a864-729ad45d103b.jpg",
+      "PackagePath": "staticwebassets\\images\\0bc829f6-436e-45b5-a864-729ad45d103b.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0bca52c6-6965-4026-92d6-10112656be07.webp",
+      "PackagePath": "staticwebassets\\images\\0bca52c6-6965-4026-92d6-10112656be07.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0c089dae-3c4d-42ad-9288-af84d8575e09.webp",
+      "PackagePath": "staticwebassets\\images\\0c089dae-3c4d-42ad-9288-af84d8575e09.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0ee00b49-564b-4daf-96a2-9fa2eb1dae1e.webp",
+      "PackagePath": "staticwebassets\\images\\0ee00b49-564b-4daf-96a2-9fa2eb1dae1e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\0fc5ca29-bce3-4d91-9308-e8c0e85f1205.jpg",
+      "PackagePath": "staticwebassets\\images\\0fc5ca29-bce3-4d91-9308-e8c0e85f1205.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\1262a1a1-fe5d-4bea-a429-d1ac2b4430bf.webp",
+      "PackagePath": "staticwebassets\\images\\1262a1a1-fe5d-4bea-a429-d1ac2b4430bf.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\144e7b4a-8833-4dba-8006-6dca901fd640.jpg",
+      "PackagePath": "staticwebassets\\images\\144e7b4a-8833-4dba-8006-6dca901fd640.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\15f010ed-fb88-44fd-aaf4-91acbba25fc8.webp",
+      "PackagePath": "staticwebassets\\images\\15f010ed-fb88-44fd-aaf4-91acbba25fc8.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\16aa4a08-7605-49a8-8364-d5c9da50214a.jpg",
+      "PackagePath": "staticwebassets\\images\\16aa4a08-7605-49a8-8364-d5c9da50214a.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\197c6616-bf0e-4541-b4ea-8c246ff7c086.webp",
+      "PackagePath": "staticwebassets\\images\\197c6616-bf0e-4541-b4ea-8c246ff7c086.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\19b1d116-8071-44bb-9f32-d7eca182af17.webp",
+      "PackagePath": "staticwebassets\\images\\19b1d116-8071-44bb-9f32-d7eca182af17.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\1a0daed4-2273-4248-b91d-e9e68fc61170.webp",
+      "PackagePath": "staticwebassets\\images\\1a0daed4-2273-4248-b91d-e9e68fc61170.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\1bbe435c-dfe9-453e-9837-f5d76f727a6b.webp",
+      "PackagePath": "staticwebassets\\images\\1bbe435c-dfe9-453e-9837-f5d76f727a6b.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\1e02f389-0446-4c4f-b4cc-de5f704ea5c3.webp",
+      "PackagePath": "staticwebassets\\images\\1e02f389-0446-4c4f-b4cc-de5f704ea5c3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\1fda8a74-9449-4c91-b87b-93be9bb41f8c.jpg",
+      "PackagePath": "staticwebassets\\images\\1fda8a74-9449-4c91-b87b-93be9bb41f8c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2246a658-1e87-42f6-8e27-dd315b4e9c7b.webp",
+      "PackagePath": "staticwebassets\\images\\2246a658-1e87-42f6-8e27-dd315b4e9c7b.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\23a6b74f-e916-4a4d-8624-0a07391b6484.jpg",
+      "PackagePath": "staticwebassets\\images\\23a6b74f-e916-4a4d-8624-0a07391b6484.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\252eaab8-9e08-4f5b-91ce-4338b7cd659d.webp",
+      "PackagePath": "staticwebassets\\images\\252eaab8-9e08-4f5b-91ce-4338b7cd659d.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\25d472ce-c3a7-42fb-95de-a4c1664bd66a.jpg",
+      "PackagePath": "staticwebassets\\images\\25d472ce-c3a7-42fb-95de-a4c1664bd66a.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\27b4a521-e88d-4cea-8c31-5e6f58bd47eb.jpg",
+      "PackagePath": "staticwebassets\\images\\27b4a521-e88d-4cea-8c31-5e6f58bd47eb.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2950fbef-6be3-42f8-ad16-2d6d5962c9be.webp",
+      "PackagePath": "staticwebassets\\images\\2950fbef-6be3-42f8-ad16-2d6d5962c9be.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2a5c4a84-902b-4e68-a4a5-474723eb1bc0.webp",
+      "PackagePath": "staticwebassets\\images\\2a5c4a84-902b-4e68-a4a5-474723eb1bc0.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2afa5591-89f6-4039-a25d-a74db4adda11.webp",
+      "PackagePath": "staticwebassets\\images\\2afa5591-89f6-4039-a25d-a74db4adda11.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2e5b224c-64da-424b-99ab-0faa1908a3ff.webp",
+      "PackagePath": "staticwebassets\\images\\2e5b224c-64da-424b-99ab-0faa1908a3ff.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2f3021e5-8ef1-472d-b882-68c923d7811f.webp",
+      "PackagePath": "staticwebassets\\images\\2f3021e5-8ef1-472d-b882-68c923d7811f.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\2fae32f6-4c25-479d-9f8c-4eaef272b63b.webp",
+      "PackagePath": "staticwebassets\\images\\2fae32f6-4c25-479d-9f8c-4eaef272b63b.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\30352819-efb0-45e3-8ef7-509bcd3b6159.jpg",
+      "PackagePath": "staticwebassets\\images\\30352819-efb0-45e3-8ef7-509bcd3b6159.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\32da08ac-e703-47bd-aad8-6a37e80370b5.webp",
+      "PackagePath": "staticwebassets\\images\\32da08ac-e703-47bd-aad8-6a37e80370b5.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\344aadb1-39dd-4bba-bb9d-58c3669bc2e4.webp",
+      "PackagePath": "staticwebassets\\images\\344aadb1-39dd-4bba-bb9d-58c3669bc2e4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\35a549d2-1a0c-4081-b59c-27524f26c9bc.webp",
+      "PackagePath": "staticwebassets\\images\\35a549d2-1a0c-4081-b59c-27524f26c9bc.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\3727fbd8-8f9b-473b-8e58-cf636c3b8192.webp",
+      "PackagePath": "staticwebassets\\images\\3727fbd8-8f9b-473b-8e58-cf636c3b8192.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\38e561b3-b5e5-462e-8a84-c88968be5c63.webp",
+      "PackagePath": "staticwebassets\\images\\38e561b3-b5e5-462e-8a84-c88968be5c63.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\39a91a13-afb6-4ef9-b82d-a7eafa2e812e.webp",
+      "PackagePath": "staticwebassets\\images\\39a91a13-afb6-4ef9-b82d-a7eafa2e812e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\3bd29042-ec3e-4cc0-b913-a8365c188244.webp",
+      "PackagePath": "staticwebassets\\images\\3bd29042-ec3e-4cc0-b913-a8365c188244.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\3c088525-2069-406c-aae6-994ccd662a18.jpg",
+      "PackagePath": "staticwebassets\\images\\3c088525-2069-406c-aae6-994ccd662a18.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\3d29f2b6-cdc0-4999-bb4d-472eae7df777.webp",
+      "PackagePath": "staticwebassets\\images\\3d29f2b6-cdc0-4999-bb4d-472eae7df777.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\3e5ee413-75e4-4485-9113-a021afac7a48.webp",
+      "PackagePath": "staticwebassets\\images\\3e5ee413-75e4-4485-9113-a021afac7a48.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\410053df-5989-4857-a895-403549b1e63a.webp",
+      "PackagePath": "staticwebassets\\images\\410053df-5989-4857-a895-403549b1e63a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\42a52f96-d5c4-403b-b3d1-bdad94342eb2.webp",
+      "PackagePath": "staticwebassets\\images\\42a52f96-d5c4-403b-b3d1-bdad94342eb2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\42c82ce0-cb0b-4373-8368-c19d48d65744.jpg",
+      "PackagePath": "staticwebassets\\images\\42c82ce0-cb0b-4373-8368-c19d48d65744.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4655c230-9f37-4928-888e-55e859229574.webp",
+      "PackagePath": "staticwebassets\\images\\4655c230-9f37-4928-888e-55e859229574.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\471b1ed1-9021-48d9-b64a-58f3a12d824c.jpg",
+      "PackagePath": "staticwebassets\\images\\471b1ed1-9021-48d9-b64a-58f3a12d824c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4897568b-07a4-4a5f-94a6-efc2630f2b86.jpg",
+      "PackagePath": "staticwebassets\\images\\4897568b-07a4-4a5f-94a6-efc2630f2b86.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4bb52274-c988-4c9c-8a1f-3c6180cfd98b.jpg",
+      "PackagePath": "staticwebassets\\images\\4bb52274-c988-4c9c-8a1f-3c6180cfd98b.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4c4ad259-d78c-420e-a15c-9a00f4225dea.jpg",
+      "PackagePath": "staticwebassets\\images\\4c4ad259-d78c-420e-a15c-9a00f4225dea.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4d8ea014-d6aa-4f5b-8ced-4638c20e3dde.webp",
+      "PackagePath": "staticwebassets\\images\\4d8ea014-d6aa-4f5b-8ced-4638c20e3dde.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4de8b4e5-7010-48f0-b959-fab5077549b0.webp",
+      "PackagePath": "staticwebassets\\images\\4de8b4e5-7010-48f0-b959-fab5077549b0.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\4ef7a556-83a9-4a50-a50d-d2f5a4483b01.webp",
+      "PackagePath": "staticwebassets\\images\\4ef7a556-83a9-4a50-a50d-d2f5a4483b01.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\515d9877-dc18-4801-a15f-1f4a2f568b06.webp",
+      "PackagePath": "staticwebassets\\images\\515d9877-dc18-4801-a15f-1f4a2f568b06.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\51a97911-e653-4945-8f26-dc7ec3cc4b89.webp",
+      "PackagePath": "staticwebassets\\images\\51a97911-e653-4945-8f26-dc7ec3cc4b89.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\526950a8-7ff0-4b19-b708-3411c0764b7c.jpg",
+      "PackagePath": "staticwebassets\\images\\526950a8-7ff0-4b19-b708-3411c0764b7c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\540708c8-b52a-4b21-8012-6a15171081c2.jpg",
+      "PackagePath": "staticwebassets\\images\\540708c8-b52a-4b21-8012-6a15171081c2.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\54eb87fd-86c9-4071-b1ce-769f1fe5b693.webp",
+      "PackagePath": "staticwebassets\\images\\54eb87fd-86c9-4071-b1ce-769f1fe5b693.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5508ee07-c815-48de-8495-62b86aa9600c.webp",
+      "PackagePath": "staticwebassets\\images\\5508ee07-c815-48de-8495-62b86aa9600c.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\55eca030-fd0c-4259-aea6-39d437820f38.jpg",
+      "PackagePath": "staticwebassets\\images\\55eca030-fd0c-4259-aea6-39d437820f38.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\56affbfa-1300-44a1-a02e-ff427bb52254.webp",
+      "PackagePath": "staticwebassets\\images\\56affbfa-1300-44a1-a02e-ff427bb52254.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\571fc825-1012-432f-a13d-17c2cc14fc32.jpg",
+      "PackagePath": "staticwebassets\\images\\571fc825-1012-432f-a13d-17c2cc14fc32.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5729d949-889b-4840-b49a-cd9a7f5540eb.webp",
+      "PackagePath": "staticwebassets\\images\\5729d949-889b-4840-b49a-cd9a7f5540eb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\572f96bc-38b8-4cb0-98f9-05508ae39889.webp",
+      "PackagePath": "staticwebassets\\images\\572f96bc-38b8-4cb0-98f9-05508ae39889.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\574ba52a-0722-4341-b646-9e74b16e4fb6.jpg",
+      "PackagePath": "staticwebassets\\images\\574ba52a-0722-4341-b646-9e74b16e4fb6.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\57a372d9-1724-4d4a-93cf-73f2be6b49c4.webp",
+      "PackagePath": "staticwebassets\\images\\57a372d9-1724-4d4a-93cf-73f2be6b49c4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\58cf7f3b-0e2a-4b77-85f9-cebf196cef07.webp",
+      "PackagePath": "staticwebassets\\images\\58cf7f3b-0e2a-4b77-85f9-cebf196cef07.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5b45c8cb-9617-4a89-bb59-f7adf31f23c9.jpg",
+      "PackagePath": "staticwebassets\\images\\5b45c8cb-9617-4a89-bb59-f7adf31f23c9.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5cd4fd41-4203-40d5-a7c5-8da4885b7b11.jpg",
+      "PackagePath": "staticwebassets\\images\\5cd4fd41-4203-40d5-a7c5-8da4885b7b11.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5d0aea99-4236-4c49-97b3-8d8bc997a21d.webp",
+      "PackagePath": "staticwebassets\\images\\5d0aea99-4236-4c49-97b3-8d8bc997a21d.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5de29c94-291a-414d-9826-f21842e79aa8.webp",
+      "PackagePath": "staticwebassets\\images\\5de29c94-291a-414d-9826-f21842e79aa8.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5e697057-c543-4c78-ba09-6cc23ab27d0a.webp",
+      "PackagePath": "staticwebassets\\images\\5e697057-c543-4c78-ba09-6cc23ab27d0a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5ea179a1-ff09-461a-b5e6-1d8d410a30e4.webp",
+      "PackagePath": "staticwebassets\\images\\5ea179a1-ff09-461a-b5e6-1d8d410a30e4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5eca1b30-6551-4b94-a8d8-889fc05d7f76.webp",
+      "PackagePath": "staticwebassets\\images\\5eca1b30-6551-4b94-a8d8-889fc05d7f76.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\5f90cdb8-6872-4765-bee2-9e761f7a9c60.jpg",
+      "PackagePath": "staticwebassets\\images\\5f90cdb8-6872-4765-bee2-9e761f7a9c60.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\61035da0-05c1-4efa-9f63-d28fd90c138b.webp",
+      "PackagePath": "staticwebassets\\images\\61035da0-05c1-4efa-9f63-d28fd90c138b.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\61977015-d823-4cc3-ab7a-e6234fb98d24.jpg",
+      "PackagePath": "staticwebassets\\images\\61977015-d823-4cc3-ab7a-e6234fb98d24.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\64359d04-9fd4-4048-b210-bf6a6e9b418e.jpg",
+      "PackagePath": "staticwebassets\\images\\64359d04-9fd4-4048-b210-bf6a6e9b418e.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\65fb2ce4-18a5-468b-bf7f-2251bc42827c.webp",
+      "PackagePath": "staticwebassets\\images\\65fb2ce4-18a5-468b-bf7f-2251bc42827c.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\663837f3-8d65-4be6-ba9a-26dcffb7dd40.webp",
+      "PackagePath": "staticwebassets\\images\\663837f3-8d65-4be6-ba9a-26dcffb7dd40.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\66749160-b279-406d-a9fe-b76893c09e64.webp",
+      "PackagePath": "staticwebassets\\images\\66749160-b279-406d-a9fe-b76893c09e64.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\66f9ef89-0203-46fa-8d0f-f139861b2caf.webp",
+      "PackagePath": "staticwebassets\\images\\66f9ef89-0203-46fa-8d0f-f139861b2caf.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\685cefff-b7f2-4346-b0b0-f322c79b2403.webp",
+      "PackagePath": "staticwebassets\\images\\685cefff-b7f2-4346-b0b0-f322c79b2403.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\69557679-023b-4cc1-bd4b-f41fc2fea0f4.webp",
+      "PackagePath": "staticwebassets\\images\\69557679-023b-4cc1-bd4b-f41fc2fea0f4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\6a049f40-0a45-4484-8a71-dd24617d3d6f.webp",
+      "PackagePath": "staticwebassets\\images\\6a049f40-0a45-4484-8a71-dd24617d3d6f.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\6b99407c-f922-4542-af3d-6a42e52c7193.webp",
+      "PackagePath": "staticwebassets\\images\\6b99407c-f922-4542-af3d-6a42e52c7193.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\6e083721-974e-404c-8ade-d6444d7e3a1f.jpg",
+      "PackagePath": "staticwebassets\\images\\6e083721-974e-404c-8ade-d6444d7e3a1f.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\6f6488c3-1b74-464d-b79a-3b024ff8939a.jpg",
+      "PackagePath": "staticwebassets\\images\\6f6488c3-1b74-464d-b79a-3b024ff8939a.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\6f9c73c5-de5b-4bf6-888d-07dc7df57ca8.jpg",
+      "PackagePath": "staticwebassets\\images\\6f9c73c5-de5b-4bf6-888d-07dc7df57ca8.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7100c629-f68c-4356-8477-95f83a9e6b09.webp",
+      "PackagePath": "staticwebassets\\images\\7100c629-f68c-4356-8477-95f83a9e6b09.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\74ea78d8-6076-46a3-b69b-f60ee341e8ec.jpg",
+      "PackagePath": "staticwebassets\\images\\74ea78d8-6076-46a3-b69b-f60ee341e8ec.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\75b8bcd1-4cfb-49f9-8bf0-667dc26010ac.jpg",
+      "PackagePath": "staticwebassets\\images\\75b8bcd1-4cfb-49f9-8bf0-667dc26010ac.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\75f09685-5c06-4715-8d3b-7b4d627bad28.webp",
+      "PackagePath": "staticwebassets\\images\\75f09685-5c06-4715-8d3b-7b4d627bad28.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\78091b3a-2f93-46b1-8747-6d71f557cf1c.jpg",
+      "PackagePath": "staticwebassets\\images\\78091b3a-2f93-46b1-8747-6d71f557cf1c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7a467e8a-fb1b-46ca-82f5-2e4b99c8db9d.webp",
+      "PackagePath": "staticwebassets\\images\\7a467e8a-fb1b-46ca-82f5-2e4b99c8db9d.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7b498331-261c-4d71-a44b-c0fedfef3b09.webp",
+      "PackagePath": "staticwebassets\\images\\7b498331-261c-4d71-a44b-c0fedfef3b09.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7cfb4fb6-a7f6-4734-925f-6bc3ff470d6d.webp",
+      "PackagePath": "staticwebassets\\images\\7cfb4fb6-a7f6-4734-925f-6bc3ff470d6d.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7dd436e6-3911-4746-93a2-0a06a4c1cd92.jpg",
+      "PackagePath": "staticwebassets\\images\\7dd436e6-3911-4746-93a2-0a06a4c1cd92.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7e6d6eba-4b3e-4b30-909a-98b44b451edf.jpg",
+      "PackagePath": "staticwebassets\\images\\7e6d6eba-4b3e-4b30-909a-98b44b451edf.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7ef3065c-36e0-4cde-add8-f94bfa538dc9.jpg",
+      "PackagePath": "staticwebassets\\images\\7ef3065c-36e0-4cde-add8-f94bfa538dc9.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\7fe2d9e3-d82a-4a68-a2d1-ce9f5fa378b6.webp",
+      "PackagePath": "staticwebassets\\images\\7fe2d9e3-d82a-4a68-a2d1-ce9f5fa378b6.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\803262dc-cc45-4120-a976-dd2a80b62520.webp",
+      "PackagePath": "staticwebassets\\images\\803262dc-cc45-4120-a976-dd2a80b62520.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8045f8fa-4810-4b63-9d6c-b35df47d4169.webp",
+      "PackagePath": "staticwebassets\\images\\8045f8fa-4810-4b63-9d6c-b35df47d4169.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\81512370-358c-447a-b45e-e93bbaaf2e35.webp",
+      "PackagePath": "staticwebassets\\images\\81512370-358c-447a-b45e-e93bbaaf2e35.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\82733a9d-3512-4496-9b6f-b3cafee6be8a.jpg",
+      "PackagePath": "staticwebassets\\images\\82733a9d-3512-4496-9b6f-b3cafee6be8a.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\829eebf9-7a58-4dff-b51d-4f00d08f740b.webp",
+      "PackagePath": "staticwebassets\\images\\829eebf9-7a58-4dff-b51d-4f00d08f740b.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\855b5b3e-67e8-440d-a669-2385c72b61a3.webp",
+      "PackagePath": "staticwebassets\\images\\855b5b3e-67e8-440d-a669-2385c72b61a3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\871becdc-6959-4fb4-9096-d5184c6da005.webp",
+      "PackagePath": "staticwebassets\\images\\871becdc-6959-4fb4-9096-d5184c6da005.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\87c6457b-25d6-4d9c-99b8-e324fd9843d4.webp",
+      "PackagePath": "staticwebassets\\images\\87c6457b-25d6-4d9c-99b8-e324fd9843d4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\883665b7-7a5d-430b-a36a-3188e63bb175.webp",
+      "PackagePath": "staticwebassets\\images\\883665b7-7a5d-430b-a36a-3188e63bb175.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8885ff0c-2bb9-4523-b41f-2c11507ef488.webp",
+      "PackagePath": "staticwebassets\\images\\8885ff0c-2bb9-4523-b41f-2c11507ef488.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8967f92b-f881-48b0-ad18-e8078514f539.webp",
+      "PackagePath": "staticwebassets\\images\\8967f92b-f881-48b0-ad18-e8078514f539.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\89a1900b-b63f-40d4-a1fc-12704705392a.jpg",
+      "PackagePath": "staticwebassets\\images\\89a1900b-b63f-40d4-a1fc-12704705392a.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8a1c4413-af17-4a79-87ab-3a28c8cfdf08.webp",
+      "PackagePath": "staticwebassets\\images\\8a1c4413-af17-4a79-87ab-3a28c8cfdf08.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8aa0e15b-10d6-427c-a41d-4dab29fc54ff.jpg",
+      "PackagePath": "staticwebassets\\images\\8aa0e15b-10d6-427c-a41d-4dab29fc54ff.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8c841fe4-7ac2-4c4d-b08d-6d4680941142.webp",
+      "PackagePath": "staticwebassets\\images\\8c841fe4-7ac2-4c4d-b08d-6d4680941142.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8d7f4804-e835-48c7-a597-fb9407030480.webp",
+      "PackagePath": "staticwebassets\\images\\8d7f4804-e835-48c7-a597-fb9407030480.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8f3a4886-41c4-4287-a8ad-c0e466781eec.webp",
+      "PackagePath": "staticwebassets\\images\\8f3a4886-41c4-4287-a8ad-c0e466781eec.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\8f62c92f-a486-4d25-8b4f-8761b7124aae.webp",
+      "PackagePath": "staticwebassets\\images\\8f62c92f-a486-4d25-8b4f-8761b7124aae.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\90dbac56-e40b-4f10-84f6-7af309ceb3f7.webp",
+      "PackagePath": "staticwebassets\\images\\90dbac56-e40b-4f10-84f6-7af309ceb3f7.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\912321cb-87da-4461-a916-b92eb2acbeea.jpg",
+      "PackagePath": "staticwebassets\\images\\912321cb-87da-4461-a916-b92eb2acbeea.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9397a650-816b-430d-9bba-536328ae5923.webp",
+      "PackagePath": "staticwebassets\\images\\9397a650-816b-430d-9bba-536328ae5923.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\93cb0bd4-1b4c-43f7-91d6-76923db12c3f.jpg",
+      "PackagePath": "staticwebassets\\images\\93cb0bd4-1b4c-43f7-91d6-76923db12c3f.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\960f35cc-aa75-402c-880f-060774145df5.jpg",
+      "PackagePath": "staticwebassets\\images\\960f35cc-aa75-402c-880f-060774145df5.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\975b1ce7-105a-4bad-9a52-c57e16451642.jpg",
+      "PackagePath": "staticwebassets\\images\\975b1ce7-105a-4bad-9a52-c57e16451642.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\97658b84-14f6-45f1-a204-eb3a188ea11c.webp",
+      "PackagePath": "staticwebassets\\images\\97658b84-14f6-45f1-a204-eb3a188ea11c.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9a26ed61-b197-46c2-b657-9f6fa59d4db3.webp",
+      "PackagePath": "staticwebassets\\images\\9a26ed61-b197-46c2-b657-9f6fa59d4db3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9f0a35b4-989f-4e16-883c-daf41c2f6363.jpg",
+      "PackagePath": "staticwebassets\\images\\9f0a35b4-989f-4e16-883c-daf41c2f6363.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9f23f8c3-ae48-4d2f-8246-6c2b61584b82.jpg",
+      "PackagePath": "staticwebassets\\images\\9f23f8c3-ae48-4d2f-8246-6c2b61584b82.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9f3d70e5-8a10-46e1-92ad-e6d01de4c47e.webp",
+      "PackagePath": "staticwebassets\\images\\9f3d70e5-8a10-46e1-92ad-e6d01de4c47e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\9fcee970-8145-4404-8bfb-0fe35b290dc1.webp",
+      "PackagePath": "staticwebassets\\images\\9fcee970-8145-4404-8bfb-0fe35b290dc1.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a219f982-96eb-42f0-8064-84457f175c3d.webp",
+      "PackagePath": "staticwebassets\\images\\a219f982-96eb-42f0-8064-84457f175c3d.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a437cba0-12a0-49ee-8d17-cb117f98da4f.webp",
+      "PackagePath": "staticwebassets\\images\\a437cba0-12a0-49ee-8d17-cb117f98da4f.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a45a6fb0-5b02-491e-8cef-b271b0bef06a.webp",
+      "PackagePath": "staticwebassets\\images\\a45a6fb0-5b02-491e-8cef-b271b0bef06a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a625a669-ca41-47b3-b69b-6dafe674f290.jpg",
+      "PackagePath": "staticwebassets\\images\\a625a669-ca41-47b3-b69b-6dafe674f290.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a761bdda-404d-483c-82c8-5ec20fa7bdf0.jpg",
+      "PackagePath": "staticwebassets\\images\\a761bdda-404d-483c-82c8-5ec20fa7bdf0.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a8b4b487-822a-467d-b732-1ee0d0738529.webp",
+      "PackagePath": "staticwebassets\\images\\a8b4b487-822a-467d-b732-1ee0d0738529.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a999f840-9f24-44e3-9e85-aff68ffc8b90.webp",
+      "PackagePath": "staticwebassets\\images\\a999f840-9f24-44e3-9e85-aff68ffc8b90.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\a9daf178-42b3-4c8f-8a38-fee7a99e0615.jpg",
+      "PackagePath": "staticwebassets\\images\\a9daf178-42b3-4c8f-8a38-fee7a99e0615.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\aa917a18-74ac-4a85-8b3e-665442aae6a2.webp",
+      "PackagePath": "staticwebassets\\images\\aa917a18-74ac-4a85-8b3e-665442aae6a2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\aadbd19e-f052-4e78-9af4-a83f15702c37.webp",
+      "PackagePath": "staticwebassets\\images\\aadbd19e-f052-4e78-9af4-a83f15702c37.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\aafd925d-d2cf-4472-91b7-e9680560a109.webp",
+      "PackagePath": "staticwebassets\\images\\aafd925d-d2cf-4472-91b7-e9680560a109.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\afaceeb5-3cf6-4e0f-bd35-47e51b899dab.jpg",
+      "PackagePath": "staticwebassets\\images\\afaceeb5-3cf6-4e0f-bd35-47e51b899dab.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\b2255f1f-66d4-4761-8a70-e39f710e0acb.webp",
+      "PackagePath": "staticwebassets\\images\\b2255f1f-66d4-4761-8a70-e39f710e0acb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\b543d5a7-55eb-46ca-904a-b0443fdbc9c3.webp",
+      "PackagePath": "staticwebassets\\images\\b543d5a7-55eb-46ca-904a-b0443fdbc9c3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\b561a6a9-5fa8-4934-a039-c5307014fd2c.webp",
+      "PackagePath": "staticwebassets\\images\\b561a6a9-5fa8-4934-a039-c5307014fd2c.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\b950f315-c262-4f02-8f15-8d5521652d9e.webp",
+      "PackagePath": "staticwebassets\\images\\b950f315-c262-4f02-8f15-8d5521652d9e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\b95eb078-5038-4706-a88d-3fc6d7f8dc72.webp",
+      "PackagePath": "staticwebassets\\images\\b95eb078-5038-4706-a88d-3fc6d7f8dc72.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ba767cf9-a49e-4d5a-a3b4-a236b3abf7e3.jpg",
+      "PackagePath": "staticwebassets\\images\\ba767cf9-a49e-4d5a-a3b4-a236b3abf7e3.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ba8a47b4-6225-457f-854e-11e890ba2db3.webp",
+      "PackagePath": "staticwebassets\\images\\ba8a47b4-6225-457f-854e-11e890ba2db3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\banner1.gif",
+      "PackagePath": "staticwebassets\\images\\banner1.gif"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\banner2.gif",
+      "PackagePath": "staticwebassets\\images\\banner2.gif"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\banner3.gif",
+      "PackagePath": "staticwebassets\\images\\banner3.gif"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\bc2489b6-a457-4cf6-9de1-ea72bd092512.jpg",
+      "PackagePath": "staticwebassets\\images\\bc2489b6-a457-4cf6-9de1-ea72bd092512.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\bd093236-94cd-4f53-8d60-ac79f57ef2c8.webp",
+      "PackagePath": "staticwebassets\\images\\bd093236-94cd-4f53-8d60-ac79f57ef2c8.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\be41dc69-cf02-46fd-9837-5702860470a5.jpg",
+      "PackagePath": "staticwebassets\\images\\be41dc69-cf02-46fd-9837-5702860470a5.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c0bb3b8d-3c21-444f-b6f7-addb1a10dd5e.webp",
+      "PackagePath": "staticwebassets\\images\\c0bb3b8d-3c21-444f-b6f7-addb1a10dd5e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c1319040-ae5e-41cb-93fb-5c0a8a1f2cf3.webp",
+      "PackagePath": "staticwebassets\\images\\c1319040-ae5e-41cb-93fb-5c0a8a1f2cf3.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c13a3932-eef3-460a-91aa-a436030d9452.jpg",
+      "PackagePath": "staticwebassets\\images\\c13a3932-eef3-460a-91aa-a436030d9452.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c143d748-8582-42be-8476-b6631f88cdd8.webp",
+      "PackagePath": "staticwebassets\\images\\c143d748-8582-42be-8476-b6631f88cdd8.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c15e3b7b-632d-4463-8432-2e05d363951b.jpg",
+      "PackagePath": "staticwebassets\\images\\c15e3b7b-632d-4463-8432-2e05d363951b.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c185c5e4-3733-45e0-910a-8a6de08fceb7.jpg",
+      "PackagePath": "staticwebassets\\images\\c185c5e4-3733-45e0-910a-8a6de08fceb7.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c19e3e09-1866-4707-9268-86e9c6059cb5.webp",
+      "PackagePath": "staticwebassets\\images\\c19e3e09-1866-4707-9268-86e9c6059cb5.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c3155cba-63af-4770-ba71-f81ebfbd92e4.webp",
+      "PackagePath": "staticwebassets\\images\\c3155cba-63af-4770-ba71-f81ebfbd92e4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c4cf7363-8208-44d4-9195-1bd03da5b8a7.jpg",
+      "PackagePath": "staticwebassets\\images\\c4cf7363-8208-44d4-9195-1bd03da5b8a7.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c7cb5de4-71d4-4a56-be38-1e45a8a346fb.webp",
+      "PackagePath": "staticwebassets\\images\\c7cb5de4-71d4-4a56-be38-1e45a8a346fb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c9100a29-d338-4813-a0c9-50ed1b462e3e.webp",
+      "PackagePath": "staticwebassets\\images\\c9100a29-d338-4813-a0c9-50ed1b462e3e.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\c9e94a06-87b4-4c2b-abd9-acda03a86f91.webp",
+      "PackagePath": "staticwebassets\\images\\c9e94a06-87b4-4c2b-abd9-acda03a86f91.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ca4f811c-6eb9-444b-9896-74d111e176d2.webp",
+      "PackagePath": "staticwebassets\\images\\ca4f811c-6eb9-444b-9896-74d111e176d2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\cacf1041-b67f-48d9-8fd2-576d07018553.jpg",
+      "PackagePath": "staticwebassets\\images\\cacf1041-b67f-48d9-8fd2-576d07018553.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\cbe717fa-fa7a-4739-b050-e7f9485d3464.jpg",
+      "PackagePath": "staticwebassets\\images\\cbe717fa-fa7a-4739-b050-e7f9485d3464.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ccc429ad-7c2e-4c1a-b421-63404c4cc5dd.webp",
+      "PackagePath": "staticwebassets\\images\\ccc429ad-7c2e-4c1a-b421-63404c4cc5dd.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\cdc8f8ea-5210-41e6-9e39-7dfe0abf8885.jpg",
+      "PackagePath": "staticwebassets\\images\\cdc8f8ea-5210-41e6-9e39-7dfe0abf8885.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\cdd4ba4d-cf8d-4ded-9e5c-3c3f84ff2cd4.webp",
+      "PackagePath": "staticwebassets\\images\\cdd4ba4d-cf8d-4ded-9e5c-3c3f84ff2cd4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\cfbd39c3-2d2e-45b4-bd96-e6a603402bfb.webp",
+      "PackagePath": "staticwebassets\\images\\cfbd39c3-2d2e-45b4-bd96-e6a603402bfb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d0124816-25b4-4531-b1e5-8516c348805c.jpg",
+      "PackagePath": "staticwebassets\\images\\d0124816-25b4-4531-b1e5-8516c348805c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d1108f84-1a39-46e2-9a26-bb20ef14d760.webp",
+      "PackagePath": "staticwebassets\\images\\d1108f84-1a39-46e2-9a26-bb20ef14d760.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d1842224-a536-416b-98f7-da382d02666a.webp",
+      "PackagePath": "staticwebassets\\images\\d1842224-a536-416b-98f7-da382d02666a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d34819ab-699a-4905-a5d3-6326776251aa.webp",
+      "PackagePath": "staticwebassets\\images\\d34819ab-699a-4905-a5d3-6326776251aa.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d649444a-18cb-4c0c-a2c6-e65cb7014a46.jpg",
+      "PackagePath": "staticwebassets\\images\\d649444a-18cb-4c0c-a2c6-e65cb7014a46.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d7813fe0-ae48-404b-b99f-a92a3aa839a2.webp",
+      "PackagePath": "staticwebassets\\images\\d7813fe0-ae48-404b-b99f-a92a3aa839a2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d824b512-fd42-45f3-8276-484280454349.jpg",
+      "PackagePath": "staticwebassets\\images\\d824b512-fd42-45f3-8276-484280454349.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d92572c9-3900-48dd-9cd2-2a6de90979cb.webp",
+      "PackagePath": "staticwebassets\\images\\d92572c9-3900-48dd-9cd2-2a6de90979cb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\d9625e0e-a87b-4506-8b2c-c4664d4a7823.webp",
+      "PackagePath": "staticwebassets\\images\\d9625e0e-a87b-4506-8b2c-c4664d4a7823.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\dba51a7c-282e-4582-89bf-05e0be18df87.webp",
+      "PackagePath": "staticwebassets\\images\\dba51a7c-282e-4582-89bf-05e0be18df87.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\dd19edbe-98f5-447e-8c05-38e2272efaee.webp",
+      "PackagePath": "staticwebassets\\images\\dd19edbe-98f5-447e-8c05-38e2272efaee.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\df43fbed-8bc6-4b2b-b70f-fdf978cd5406.webp",
+      "PackagePath": "staticwebassets\\images\\df43fbed-8bc6-4b2b-b70f-fdf978cd5406.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\dfdcf250-34c0-4f49-851b-d37901277a7c.jpg",
+      "PackagePath": "staticwebassets\\images\\dfdcf250-34c0-4f49-851b-d37901277a7c.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e11b0a18-57b8-4b30-a3df-a7b5de9d04a4.jpg",
+      "PackagePath": "staticwebassets\\images\\e11b0a18-57b8-4b30-a3df-a7b5de9d04a4.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e1aae935-a006-48a7-85f6-f6b8328525c5.webp",
+      "PackagePath": "staticwebassets\\images\\e1aae935-a006-48a7-85f6-f6b8328525c5.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e3a79c0a-93d1-42ae-b87a-f7fb56b2b987.webp",
+      "PackagePath": "staticwebassets\\images\\e3a79c0a-93d1-42ae-b87a-f7fb56b2b987.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e4498753-f655-44d0-ae6b-58ce880e28fb.webp",
+      "PackagePath": "staticwebassets\\images\\e4498753-f655-44d0-ae6b-58ce880e28fb.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e50cf481-7114-44ee-9e01-c554b5754e41.webp",
+      "PackagePath": "staticwebassets\\images\\e50cf481-7114-44ee-9e01-c554b5754e41.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e54792b8-e898-4ef2-9e3b-390cd1276ac1.webp",
+      "PackagePath": "staticwebassets\\images\\e54792b8-e898-4ef2-9e3b-390cd1276ac1.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e6cf993d-2b20-4958-bbd6-c1e99cdad5f4.webp",
+      "PackagePath": "staticwebassets\\images\\e6cf993d-2b20-4958-bbd6-c1e99cdad5f4.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\e9cf2ee9-7659-4888-8cb1-2fa24c7e5339.jpg",
+      "PackagePath": "staticwebassets\\images\\e9cf2ee9-7659-4888-8cb1-2fa24c7e5339.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ea24d868-005f-4a60-b71d-076b46f24767.webp",
+      "PackagePath": "staticwebassets\\images\\ea24d868-005f-4a60-b71d-076b46f24767.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ed9a0b12-e2a9-4547-8563-da42e496bdce.webp",
+      "PackagePath": "staticwebassets\\images\\ed9a0b12-e2a9-4547-8563-da42e496bdce.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ee07638f-c35d-4b09-a66a-ae3cf1c684ff.webp",
+      "PackagePath": "staticwebassets\\images\\ee07638f-c35d-4b09-a66a-ae3cf1c684ff.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\ee8b6ca2-5d76-4989-be70-2e3c1ffe53a8.jpg",
+      "PackagePath": "staticwebassets\\images\\ee8b6ca2-5d76-4989-be70-2e3c1ffe53a8.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f19b3f14-744d-4601-9792-816b5e165cf2.webp",
+      "PackagePath": "staticwebassets\\images\\f19b3f14-744d-4601-9792-816b5e165cf2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f305a553-96bc-48d6-a1f9-93639d0c1040.webp",
+      "PackagePath": "staticwebassets\\images\\f305a553-96bc-48d6-a1f9-93639d0c1040.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f4f87cd4-3c79-480a-ad69-97cc4c924023.webp",
+      "PackagePath": "staticwebassets\\images\\f4f87cd4-3c79-480a-ad69-97cc4c924023.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f64b8649-0202-4099-80aa-95a84ca5ea09.jpg",
+      "PackagePath": "staticwebassets\\images\\f64b8649-0202-4099-80aa-95a84ca5ea09.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f88b4802-2fbf-4f92-9e47-88a6135839b9.jpg",
+      "PackagePath": "staticwebassets\\images\\f88b4802-2fbf-4f92-9e47-88a6135839b9.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f8de61c4-0084-4b9b-99b4-c61b8e6767c1.webp",
+      "PackagePath": "staticwebassets\\images\\f8de61c4-0084-4b9b-99b4-c61b8e6767c1.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\f9d89246-c6a6-441a-a600-0c2b6bde65bd.jpg",
+      "PackagePath": "staticwebassets\\images\\f9d89246-c6a6-441a-a600-0c2b6bde65bd.jpg"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\fa2def28-64ca-4346-87bc-af7f41ca8f39.webp",
+      "PackagePath": "staticwebassets\\images\\fa2def28-64ca-4346-87bc-af7f41ca8f39.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\fa7312ff-347a-47ce-82ad-39c41915d08a.webp",
+      "PackagePath": "staticwebassets\\images\\fa7312ff-347a-47ce-82ad-39c41915d08a.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\fb4ecbaf-98c1-4b60-bea7-75b5b29402f2.webp",
+      "PackagePath": "staticwebassets\\images\\fb4ecbaf-98c1-4b60-bea7-75b5b29402f2.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\fc72e419-ab02-4147-9b5c-994e8c734ad6.webp",
+      "PackagePath": "staticwebassets\\images\\fc72e419-ab02-4147-9b5c-994e8c734ad6.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\fd3294f0-6412-4ea7-bb97-3fe16d02ee87.webp",
+      "PackagePath": "staticwebassets\\images\\fd3294f0-6412-4ea7-bb97-3fe16d02ee87.webp"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MAIN\\Bloomie\\Bloomie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bloomie.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bloomie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bloomie.props",
+      "PackagePath": "build\\Bloomie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bloomie.props",
+      "PackagePath": "buildMultiTargeting\\Bloomie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bloomie.props",
+      "PackagePath": "buildTransitive\\Bloomie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
