@@ -1,0 +1,315 @@
+﻿@model List<Bloomie.Models.Entities.Supplier>
+
+@{
+    ViewData["Title"] = "Quản lý nhà cung cấp";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container-fluid mt-2 p-0">
+    <div class="card shadow-sm border-0">
+        <div class="card-body">
+            <!-- Header -->
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2 class="fw-bold text-dark">
+                    <i class="fas fa-handshake text-primary me-2"></i> Quản lý nhà cung cấp
+                </h2>
+                <div>
+                    <a asp-action="Add" class="btn btn-primary">
+                        <i class="fas fa-plus me-2"></i> Thêm nhà cung cấp
+                    </a>
+                </div>
+            </div>
+
+            <!-- Success/Error Messages -->
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+            }
+
+            <!-- Suppliers Table -->
+            @if (Model.Any())
+            {
+                <div class="table-responsive">
+                    <table class="table table-hover table-bordered mb-0">
+                        <thead class="bg-primary text-white">
+                            <tr>
+                                <th class="col-supplier-name">Tên nhà cung cấp</th>
+                                <th class="col-phone">Số điện thoại</th>
+                                <th class="col-email">Email</th>
+                                <th class="col-address">Địa chỉ</th>
+                                <th class="col-status">Trạng thái</th>
+                                <th class="col-actions">Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var supplier in Model)
+                            {
+                                <tr>
+                                    <td class="supplier-name-cell">@supplier.Name</td>
+                                    <td>@supplier.Phone</td>
+                                    <td>@supplier.Email</td>
+                                    <td class="address-cell">@supplier.Address</td>
+                                    <td>@(supplier.IsActive ? "Hoạt động" : "Ngừng hoạt động")</td>
+                                    <td class="actions-cell">
+                                        <a asp-action="Update" asp-route-id="@supplier.Id" class="btn btn-warning btn-sm" data-bs-toggle="tooltip" data-bs-title="Sửa">
+                                            <i class="fas fa-edit"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@supplier.Id" class="btn btn-danger btn-sm" data-bs-toggle="tooltip" data-bs-title="Xóa">
+                                            <i class="fas fa-trash"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Pagination Controls -->
+                @if (ViewData["CurrentPage"] != null && ViewData["TotalPages"] != null)
+                {
+                    int currentPage = (int)ViewData["CurrentPage"];
+                    int totalPages = (int)ViewData["TotalPages"];
+                    <div class="pagination-section mt-4">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="pagination-info">
+                                Hiển thị @Model.Count() trong tổng số @(ViewData["TotalItems"] != null ? (int)ViewData["TotalItems"] : 0) nhà cung cấp
+                            </div>
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination justify-content-end mb-0">
+                                    <li class="page-item @(currentPage <= 1 ? "disabled" : "")">
+                                        <a class="page-link" asp-action="Index" asp-route-pageNumber="@(currentPage - 1)" aria-label="Previous">
+                                            <span aria-hidden="true">«</span>
+                                        </a>
+                                    </li>
+                                    @for (int i = 1; i <= totalPages; i++)
+                                    {
+                                        <li class="page-item @(i == currentPage ? "active" : "")">
+                                            <a class="page-link" asp-action="Index" asp-route-pageNumber="@i">@i</a>
+                                        </li>
+                                    }
+                                    <li class="page-item @(currentPage >= totalPages ? "disabled" : "")">
+                                        <a class="page-link" asp-action="Index" asp-route-pageNumber="@(currentPage + 1)" aria-label="Next">
+                                            <span aria-hidden="true">»</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="text-muted">Chưa có nhà cung cấp nào.</p>
+            }
+        </div>
+    </div>
+</div>
+
+<style>
+    :root {
+        --primary-color: #2563eb;
+        --secondary-color: #60a5fa;
+        --text-dark: #1e293b;
+        --text-light: #ffffff;
+        --background-light: #f8fafc;
+        --text-muted: #6b7280;
+    }
+
+    h2 {
+        font-family: 'Inter', sans-serif;
+        font-size: 1.75rem;
+        font-weight: 600;
+        color: var(--text-dark);
+    }
+
+    .container-fluid {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+    }
+
+    .card {
+        width: 100% !important;
+        max-width: none !important;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        background-color: #ffffff;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .text-muted {
+        font-size: 0.9rem;
+        color: var(--text-muted);
+    }
+
+    .btn-primary {
+        background-color: var(--primary-color);
+        border-color: var(--primary-color);
+        border-radius: 6px;
+        padding: 6px 12px;
+        font-size: 0.9rem;
+        transition: all 0.2s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #1d4ed8;
+            border-color: #1d4ed8;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+    .table {
+        background-color: #ffffff;
+        border-radius: 8px;
+        table-layout: fixed;
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+        .table th, .table td {
+            border-color: #e5e7eb;
+            text-align: center;
+            vertical-align: middle;
+            padding: 10px;
+        }
+
+        .table th {
+            background-color: var(--primary-color);
+            color: var(--text-light);
+            font-weight: 500;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f5f9;
+    }
+
+    .table-bordered td.supplier-name-cell,
+    .table-bordered td.address-cell {
+        text-align: left !important;
+    }
+
+    .col-supplier-name {
+        width: 20%;
+        min-width: 200px;
+    }
+
+    .col-phone {
+        width: 15%;
+        min-width: 150px;
+    }
+
+    .col-email {
+        width: 20%;
+        min-width: 200px;
+    }
+
+    .col-address {
+        width: 25%;
+        min-width: 250px;
+    }
+
+    .col-status {
+        width: 10%;
+        min-width: 120px;
+    }
+
+    .col-actions {
+        width: 10%;
+        min-width: 120px;
+    }
+
+    .supplier-name-cell,
+    .address-cell {
+        white-space: normal;
+        overflow-wrap: break-word;
+        max-width: 100%;
+        line-height: 1.4;
+    }
+
+    .actions-cell {
+        white-space: nowrap;
+    }
+
+    .btn-warning, .btn-danger {
+        border-radius: 6px;
+        padding: 4px 8px;
+        font-size: 0.8rem;
+        min-width: 32px;
+        transition: all 0.2s ease;
+        margin-right: 4px;
+    }
+
+    .btn-warning {
+        background-color: #f59e0b;
+        border-color: #f59e0b;
+    }
+
+        .btn-warning:hover {
+            background-color: #d97706;
+            transform: translateY(-1px);
+        }
+
+    .btn-danger {
+        background-color: #ef4444;
+        border-color: #ef4444;
+        margin-right: 0;
+    }
+
+        .btn-danger:hover {
+            background-color: #dc2626;
+            transform: translateY(-1px);
+        }
+
+    .pagination-section {
+        padding: 12px 0;
+        background-color: #f8fafc;
+        border-top: 1px solid #e5e7eb;
+    }
+
+    .pagination-info {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+    }
+
+    .pagination .page-link {
+        border-radius: 6px;
+        margin: 0 4px;
+        color: var(--primary-color);
+        border: 1px solid #d1d5db;
+        font-size: 0.85rem;
+        padding: 6px 12px;
+        transition: all 0.2s ease;
+    }
+
+    .pagination .page-item.active .page-link {
+        background-color: var(--primary-color);
+        border-color: var(--primary-color);
+        color: var(--text-light);
+    }
+
+    .pagination .page-item.disabled .page-link {
+        color: #d1d5db;
+        background-color: #f8fafc;
+        border-color: #d1d5db;
+    }
+
+    .pagination .page-link:hover {
+        background-color: #e5e7eb;
+        border-color: #d1d5db;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Initialize Bootstrap tooltips
+        const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+        const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+    });
+</script>

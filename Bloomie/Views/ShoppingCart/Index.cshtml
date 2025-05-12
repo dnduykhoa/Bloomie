@@ -1,0 +1,212 @@
+﻿@using Bloomie.Models.Entities
+
+@model ShoppingCart
+
+<div class="container mt-5">
+    <h2 class="text-center mb-5 text-primary fw-bold display-5">
+        <i class="bi bi-cart4 me-2"></i> Giỏ hàng của bạn
+    </h2>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger text-center shadow-sm rounded">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <div class="card shadow-lg rounded">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle mb-0" id="cartTable">
+                    <thead class="table-header-gradient text-white text-center">
+                        <tr>
+                            <th class="ps-4">Sản phẩm</th>
+                            <th>Số lượng</th>
+                            <th>Giá</th>
+                            <th>Tổng</th>
+                            <th class="pe-4">Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Items)
+                        {
+                            <tr class="align-middle text-center">
+                                <td class="ps-4 fw-semibold text-dark">
+                                    <img src="@item.ImageUrl" alt="@item.Name" style="width: 50px; height: 50px; margin-right: 10px;" />
+                                    @item.Name
+                                </td>
+                                <td>
+                                    <a asp-action="DecreaseQuantity" asp-route-productId="@item.ProductId" class="btn btn-sm btn-outline-secondary shadow-sm">-</a>
+                                    <span class="mx-3 fw-semibold text-dark">@item.Quantity</span>
+                                    <a asp-action="IncreaseQuantity" asp-route-productId="@item.ProductId" class="btn btn-sm btn-outline-secondary shadow-sm">+</a>
+                                </td>
+                                <td class="text-success fw-semibold">@item.Price.ToString("#,##0") đ</td>
+                                <td class="text-danger fw-semibold">@((item.Price * item.Quantity).ToString("#,##0")) đ</td>
+                                <td class="pe-4">
+                                    <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId" class="btn btn-outline-danger btn-sm shadow-sm">
+                                        <i class="bi bi-trash me-1"></i> Xóa
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+
+                        <tr>
+                            <td colspan="3" class="text-end fw-bold ps-4 text-dark">Tổng cộng:</td>
+                            <td class="text-danger fw-bold">@Model.Items.Sum(i => i.Price * i.Quantity).ToString("#,##0") đ</td>
+                            <td class="pe-4"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center mt-5">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary-custom px-5 py-2 shadow-sm fw-bold">
+            <i class="bi bi-house-door me-2"></i> Quay lại trang chủ
+        </a>
+
+        <a asp-action="Checkout" class="btn btn-primary-custom px-5 py-2 shadow-sm fw-bold">
+            <i class="bi bi-check-circle me-2"></i> Tới trang thanh toán
+        </a>
+    </div>
+</div>
+
+<style>
+    /* Gradient cho header bảng */
+    .table-header-gradient {
+        background: linear-gradient(90deg, #4682b4, #6a9bd3);
+        color: #fff;
+    }
+
+        .table-header-gradient th {
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            border-bottom: none;
+            padding: 18px;
+            font-size: 1rem;
+        }
+
+    /* Căn chỉnh và style cho các ô trong bảng */
+    .table td {
+        padding: 20px;
+        vertical-align: middle;
+        font-size: 1.05rem; /* Tăng font size để dễ đọc */
+        color: #2d3436; /* Màu chữ tối hơn */
+        line-height: 1.6; /* Tăng khoảng cách dòng */
+        border-bottom: 1px solid #e9ecef;
+    }
+
+    /* Hiệu ứng hover cho hàng */
+    .table-hover tbody tr:hover {
+        background-color: #f1f5f9;
+        transition: background-color 0.3s ease;
+    }
+
+    /* Style cho cột Giá và Tổng */
+    .text-success {
+        color: #28a745 !important; /* Xanh lá cho giá */
+        font-weight: 600;
+    }
+
+    .text-danger {
+        color: #dc3545 !important; /* Đỏ cho tổng */
+        font-weight: 600;
+    }
+
+    /* Style cho nút tăng/giảm số lượng */
+    .btn-outline-secondary {
+        border-radius: 50%;
+        width: 36px;
+        height: 36px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.2rem;
+        border: 2px solid #6c757d;
+        color: #6c757d;
+        transition: all 0.3s ease;
+    }
+
+        .btn-outline-secondary:hover {
+            background-color: #4682b4;
+            color: #fff;
+            border-color: #4682b4;
+            transform: scale(1.1);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+    /* Style cho nút Xóa */
+    .btn-outline-danger {
+        border-radius: 8px;
+        padding: 8px 16px;
+        font-size: 0.95rem;
+        transition: all 0.3s ease;
+        border: none;
+        background-color: #dc3545;
+        color: #fff;
+        font-weight: 500;
+    }
+
+        .btn-outline-danger:hover {
+            background-color: #c82333;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    /* Style cho nút Quay lại và Thanh toán */
+    .btn-primary-custom {
+        background-color: #4682b4; /* Xanh dương */
+        border-color: #4682b4;
+        color: #fff;
+        padding: 12px 24px;
+        font-size: 1.05rem;
+        font-weight: 600;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-primary-custom:hover {
+            background-color: #3a6d9a; /* Xanh dương đậm hơn khi hover */
+            border-color: #3a6d9a;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    .btn-outline-secondary-custom {
+        border-color: #6c757d;
+        color: #6c757d;
+        padding: 12px 24px;
+        font-size: 1.05rem;
+        font-weight: 600;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-outline-secondary-custom:hover {
+            background-color: #6c757d;
+            color: #fff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    /* Style cho alert */
+    .alert-danger {
+        border-radius: 8px;
+        font-size: 1.05rem;
+        padding: 15px;
+        margin-bottom: 25px;
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+    }
+
+    /* Style cho card */
+    .card {
+        border: none;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+</style>

@@ -1,0 +1,2539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAIN\\Bloomie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\middleware\\useraccessloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\middleware\\useraccessloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\extensions\\useraccessloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\extensions\\useraccessloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\usermanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\usermanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\useraccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\useraccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminsupplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminsupplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminpromotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminpromotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminshipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminshipping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminshippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminshippingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminsupplier\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminsupplier\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminrevenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminrevenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250509171418_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250509171418_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\order\\paymentcallback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\order\\paymentcallback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\momoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\momo\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\momo\\momoexecuteresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\imomoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\momo\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\momo\\momocreatepaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\orderinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\orderinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\vnpay\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\vnpay\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\orderstatushistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminproduct\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\bloomie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\bloomie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\momo\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\momo\\momooptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250506093406_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250506093406_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminrevenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminrevenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\admininventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\admininventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminrevenue\\getrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminrevenue\\getrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Khoa\\.nuget\\packages\\epplus\\6.2.10\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\adjust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\adjust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250504065331_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250504065331_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\createflowertypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\createflowertypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\lowstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\lowstock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\inventoryreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\inventoryreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\importinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\importinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\advancedreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\advancedreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\flowertypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\flowertypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminsuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\adminpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\adminpromotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminsupplier\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminsupplier\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminsupplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminsupplier\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\createflowertype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\createflowertype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\importflower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\importflower.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\flowertypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\flowertypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminproduct\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\batchflowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\batchflowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503153421_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250503153421_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503040237_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250503040237_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admininventory\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admininventory\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\flowertypeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\flowertypeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\assignsubcategoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\assignsubcategoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\interfaces\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\interfaces\\ipromotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\viewmodels\\adjustinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\viewmodels\\adjustinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250502045039_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250502045039_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501175758_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250501175758_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501080410_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250501080410_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074559_AddFlowerType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250501074559_AddFlowerType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074322_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250501074322_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501072516_AddFlowerType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bloomie\\Migrations\\20250501072516_AddFlowerType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminproduct\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminproduct\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\services\\implementations\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\services\\implementations\\promotionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminuser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminuser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminuser\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminuser\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\models\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\models\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminpromotion\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminpromotion\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminpromotion\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminpromotion\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\adminpromotion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\adminpromotion\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admincategory\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admincategory\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admincategory\\assignsubcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admincategory\\assignsubcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admincategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\views\\admincategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\views\\admincategory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\areas\\admin\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\areas\\admin\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|d:\\main\\bloomie\\bloomie\\migrations\\20250510053632_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72AAC6B1-F745-45BD-900C-28639CAFE3CB}|Bloomie\\Bloomie.csproj|solutionrelative:bloomie\\migrations\\20250510053632_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 294,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:07:44.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:07:41.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T06:03:51.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccessLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Middleware\\UserAccessLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Middleware\\UserAccessLoggingMiddleware.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Middleware\\UserAccessLoggingMiddleware.cs",
+              "RelativeToolTip": "Bloomie\\Middleware\\UserAccessLoggingMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:09:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:10:29.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAiwBoBAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T07:38:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:14:37.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:08:16.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAvwLMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T05:47:39.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAccessLoggingMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Extensions\\UserAccessLoggingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Extensions\\UserAccessLoggingMiddlewareExtensions.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Extensions\\UserAccessLoggingMiddlewareExtensions.cs",
+              "RelativeToolTip": "Bloomie\\Extensions\\UserAccessLoggingMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:50:55.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Program.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Program.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Program.cs",
+              "RelativeToolTip": "Bloomie\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:33:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManagementViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\UserManagementViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\UserManagementViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\UserManagementViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\UserManagementViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:19:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Bloomie\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:50:13.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bloomie\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:32:33.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\appsettings.json",
+              "RelativeDocumentMoniker": "Bloomie\\appsettings.json",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\appsettings.json",
+              "RelativeToolTip": "Bloomie\\appsettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T05:32:46.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserAccessLog.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\UserAccessLog.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\UserAccessLog.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\UserAccessLog.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\UserAccessLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:45:03.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:38:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T07:21:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwL0BAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T08:51:37.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAswO8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T07:24:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:57:27.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:55:07.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminOrderController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminOrderController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:21:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminProductController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminProductController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:10:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Details.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Details.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminOrder\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwEUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:37:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T03:23:17.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Bloomie\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:07:27.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminShipping\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminShipping\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminShipping\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminShipping\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:20:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwEUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T08:41:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAIBJwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:46:05.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:33:12.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Shipping.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Shipping.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Shipping.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Shipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:06:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwK8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T04:59:11.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminRevenueController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminRevenueController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminRevenueController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminRevenueController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminRevenueController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:25:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Add.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Add.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Add.cshtml",
+              "ViewState": "AgIAALAAAAAAAAAAAAAhwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:29:47.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminShippingController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminShippingController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminShippingController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminShippingController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminShippingController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:04:40.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "20250510053632_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250510053632_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250510053632_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250510053632_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250510053632_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:36:32.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250509171418_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250509171418_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250509171418_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250509171418_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250509171418_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:14:18.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\History.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Order\\History.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\History.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Order\\History.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T16:42:59.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T16:45:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Order\\OrderConfirmation.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Order\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:50:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentCallBack.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\PaymentCallBack.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Order\\PaymentCallBack.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Order\\PaymentCallBack.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Order\\PaymentCallBack.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T03:15:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MomoExecuteResponseModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Momo\\MomoExecuteResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:47:43.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IMomoService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IMomoService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IMomoService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IMomoService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IMomoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:25:55.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MomoCreatePaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Momo\\MomoCreatePaymentResponseModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:32:30.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MomoService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\MomoService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\MomoService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\MomoService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\MomoService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIBJwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:24:34.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderInfoModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\OrderInfoModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\OrderInfoModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\OrderInfoModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\OrderInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:03:07.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Vnpay\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:32:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentInformationModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Vnpay\\PaymentInformationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:31:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\VnPayService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\VnPayService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\VnPayService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\VnPayService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwEQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:46:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IVnPayService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IVnPayService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IVnPayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:47:07.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Payment.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Payment.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:39:19.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\PaymentService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\PaymentService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\PaymentService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:29:30.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\InventoryTransaction.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\InventoryTransaction.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAzwCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:35:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\InventoryService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\InventoryService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\InventoryService.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAvwKEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:37:42.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:00:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IInventoryService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IInventoryService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IInventoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:36:55.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderStatusHistory.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\OrderStatusHistory.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\OrderStatusHistory.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\OrderStatusHistory.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\OrderStatusHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:52:28.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:59:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:29:42.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Order.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Order.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA4wB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:28:39.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:29:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "VnpayLibrary.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Libraries\\VnpayLibrary.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Libraries\\VnpayLibrary.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Libraries\\VnpayLibrary.cs",
+              "RelativeToolTip": "Bloomie\\Libraries\\VnpayLibrary.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAkwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:34:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Add.cshtml",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAswAICAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T05:34:04.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Product.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:43:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:05:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAvwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:10:42.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MomoOptionModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoOptionModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Momo\\MomoOptionModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Momo\\MomoOptionModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Momo\\MomoOptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:13:09.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Bloomie.csproj",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Bloomie.csproj",
+              "RelativeDocumentMoniker": "Bloomie\\Bloomie.csproj",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Bloomie.csproj",
+              "RelativeToolTip": "Bloomie\\Bloomie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T07:48:48.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:37:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\ShoppingCart.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:28:16.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250506093406_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250506093406_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250506093406_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250506093406_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250506093406_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:34:06.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Bloomie\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAowMkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:37:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\EmailService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:58:33.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:58:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAIBJwIcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T08:46:13.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Bloomie\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:35:27.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AdminInventoryController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminInventoryController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminInventoryController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminInventoryController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminInventoryController.cs",
+              "ViewState": "AgIAAN8CAAAAAAAAAIBJwPsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:11:44.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\Index.cshtml",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAmwBUCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T04:27:22.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Index.cshtml",
+              "ViewState": "AgIAAIYBAAAAAAAAAIBJwKIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:14:01.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "GetRevenue.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\GetRevenue.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\GetRevenue.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\GetRevenue.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminRevenue\\GetRevenue.cshtml",
+              "ViewState": "AgIAAOMBAAAAAAAAAIBJwPEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T15:33:10.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Khoa\\.nuget\\packages\\epplus\\6.2.10\\readme.txt",
+              "ToolTip": "C:\\Users\\Khoa\\.nuget\\packages\\epplus\\6.2.10\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-04T10:06:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:50:07.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Adjust.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Adjust.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Adjust.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Adjust.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Adjust.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:41:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250504065331_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250504065331_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250504065331_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250504065331_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250504065331_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:53:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\CreateProductViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:15:46.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CreateFlowerTypeViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CreateFlowerTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\CreateFlowerTypeViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\CreateFlowerTypeViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\CreateFlowerTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:27:34.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "LowStock.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\LowStock.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\LowStock.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\LowStock.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\LowStock.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T06:16:11.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ImportInventoryViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\ImportInventoryViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\ImportInventoryViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\ImportInventoryViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\ImportInventoryViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:03:00.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AdvancedReport.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\AdvancedReport.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\AdvancedReport.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\AdvancedReport.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\AdvancedReport.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAhwCsAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:46:15.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "InventoryReportViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\InventoryReportViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\InventoryReportViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\InventoryReportViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\InventoryReportViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:26:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "FlowerTypeViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\FlowerTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\FlowerTypeViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\FlowerTypeViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\FlowerTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:55:11.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AdminSupplierController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminSupplierController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminSupplierController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminSupplierController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminSupplierController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T16:26:17.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AdminPromotionController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminPromotionController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminPromotionController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminPromotionController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminPromotionController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:42:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:41:39.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Controllers\\AdminCategoryController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAIBJwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:11:12.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T03:51:54.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Bloomie\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAtwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:08:51.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Promotion.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Promotion.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Promotion.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:53:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:30:37.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Delete.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Delete.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminSupplier\\Delete.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAIBJwHsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T16:31:07.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\History.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\History.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\History.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\History.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAIBJwEwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T06:15:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CreateFlowerType.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateFlowerType.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateFlowerType.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateFlowerType.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateFlowerType.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAIBJwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T16:22:08.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Index.cshtml",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAmwBwCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T10:44:12.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ImportFlower.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\ImportFlower.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\ImportFlower.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\ImportFlower.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\ImportFlower.cshtml",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAhwEYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T06:03:23.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Update.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAhwKQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T03:26:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Details.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Details.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\Details.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAIBJwNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T03:15:31.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "FlowerTypes.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\FlowerTypes.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\FlowerTypes.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\FlowerTypes.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\FlowerTypes.cshtml",
+              "ViewState": "AgIAAI4BAAAAAAAAAIBJwKoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T06:07:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Update.cshtml",
+              "ViewState": "AgIAAAUCAAAAAAAAAIBJwCECAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:20:44.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "BatchFlowerType.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\BatchFlowerType.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\BatchFlowerType.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\BatchFlowerType.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\BatchFlowerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:39:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Batch.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Batch.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Batch.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:37:51.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20250503153421_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503153421_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250503153421_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503153421_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250503153421_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:34:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20250503040237_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503040237_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250503040237_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250503040237_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250503040237_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:02:38.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T08:26:49.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "FlowerTypeProduct.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\FlowerTypeProduct.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\FlowerTypeProduct.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\FlowerTypeProduct.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\FlowerTypeProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:10:26.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateProduct.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateProduct.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminInventory\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T06:16:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Category.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:32:14.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "FlowerType.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\FlowerType.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\FlowerType.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\FlowerType.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\FlowerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:59:21.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "AssignSubCategoriesViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AssignSubCategoriesViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\AssignSubCategoriesViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AssignSubCategoriesViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\AssignSubCategoriesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:11:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIBJwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:35:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:39:52.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "IPromotionService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IPromotionService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Interfaces\\IPromotionService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Interfaces\\IPromotionService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Interfaces\\IPromotionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:53:08.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:21:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:28:34.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "AdjustInventoryViewModel.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AdjustInventoryViewModel.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\ViewModels\\AdjustInventoryViewModel.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\ViewModels\\AdjustInventoryViewModel.cs",
+              "RelativeToolTip": "Bloomie\\Models\\ViewModels\\AdjustInventoryViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:02:14.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20250502045039_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250502045039_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250502045039_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250502045039_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250502045039_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:50:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "20250501175758_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501175758_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250501175758_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501175758_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250501175758_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:57:59.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Supplier.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:37:21.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20250501080410_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501080410_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250501080410_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501080410_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250501080410_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:04:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20250501074559_AddFlowerType.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074559_AddFlowerType.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250501074559_AddFlowerType.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074559_AddFlowerType.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250501074559_AddFlowerType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:45:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "20250501072516_AddFlowerType.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501072516_AddFlowerType.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250501072516_AddFlowerType.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501072516_AddFlowerType.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250501072516_AddFlowerType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:25:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "20250501074322_Initial.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074322_Initial.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Migrations\\20250501074322_Initial.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Migrations\\20250501074322_Initial.cs",
+              "RelativeToolTip": "Bloomie\\Migrations\\20250501074322_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T07:43:22.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Display.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Display.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Display.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminProduct\\Display.cshtml",
+              "ViewState": "AgIAAB8BAAAAAAAAAIBJwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:15:19.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAA8wPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:52:39.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "PromotionService.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\PromotionService.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Services\\Implementations\\PromotionService.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Services\\Implementations\\PromotionService.cs",
+              "RelativeToolTip": "Bloomie\\Services\\Implementations\\PromotionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:53:12.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ViewState": "AgIAAEABAAAAAAAAAIBJwHcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:23:14.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Delete.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Delete.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:25:18.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminUser\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminUser\\Update.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAIBJwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:24:23.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAPcAAAAAAAAAAIBJwBMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T05:52:15.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:40:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "_IdentityLayout.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_IdentityLayout.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Shared\\_IdentityLayout.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_IdentityLayout.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Shared\\_IdentityLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T07:39:32.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:10:40.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bloomie\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAhwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:45:04.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T08:34:11.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\Review.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\Review.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:40:02.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Models\\Entities\\ProductImage.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Models\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Bloomie\\Models\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:30:30.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Delete.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Delete.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T03:43:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Update.cshtml",
+              "ViewState": "AgIAALYAAAAAAAAAAIBJwO0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T03:35:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Add.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Add.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminPromotion\\Add.cshtml",
+              "ViewState": "AgIAANEAAAAAAAAAAAAmwOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T03:32:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:29:47.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:29:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Add.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Add.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:17:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "AssignSubCategories.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\AssignSubCategories.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\AssignSubCategories.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\AssignSubCategories.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\AssignSubCategories.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:23:50.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Update.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Update.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:17:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Delete.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Delete.cshtml",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Views\\AdminCategory\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:22:00.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Bloomie\\Areas\\Admin\\Models\\Role.cs",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Areas\\Admin\\Models\\Role.cs",
+              "RelativeToolTip": "Bloomie\\Areas\\Admin\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:16:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Bloomie\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Bloomie\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-28T05:46:31.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Bloomie\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\MAIN\\Bloomie\\Bloomie\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Bloomie\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T06:03:11.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

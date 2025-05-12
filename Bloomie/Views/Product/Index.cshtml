@@ -1,0 +1,333 @@
+﻿@model IEnumerable<Bloomie.Models.Entities.Product>
+
+@{
+    ViewData["Title"] = "Sản phẩm - " + ViewBag.CategoryName;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var categories = ViewBag.Categories as List<Bloomie.Models.Entities.Category> ?? new List<Bloomie.Models.Entities.Category>();
+    var selectList = new SelectList(categories, "Id", "Name", ViewBag.CategoryId);
+}
+
+<section class="product-section">
+    <h2 class="text-center text-primary fw-bold display-5 mb-4">
+        <i class="fas fa-box me-2"></i> @ViewBag.CategoryName
+    </h2>
+
+    <!-- Form lọc -->
+    <div class="filter-section mb-5">
+        <form asp-action="Index" method="get">
+            <div class="row g-3 align-items-end">
+                <!-- Lọc theo danh mục -->
+                <div class="col-md-3">
+                    <label class="form-label fw-semibold text-dark">Lọc theo sản phẩm</label>
+                    <select name="categoryId" class="form-select form-select-lg" onchange="this.form.submit()">
+                        <option value="">Tất cả danh mục</option>
+                        @foreach (var item in selectList)
+                        {
+                            <option value="@item.Value" selected="@(item.Selected ? "selected" : null)">@item.Text</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Lọc theo tên sản phẩm -->
+                <div class="col-md-3">
+                    <label class="form-label fw-semibold text-dark">Tìm kiếm sản phẩm</label>
+                    <input type="text" name="searchString" class="form-control form-control-lg" placeholder="Nhập tên sản phẩm" value="@ViewBag.SearchString" />
+                </div>
+
+                <!-- Lọc theo khoảng giá -->
+                <div class="col-md-3">
+                    <label class="form-label fw-semibold text-dark">Khoảng giá</label>
+                    <div class="row g-2">
+                        <div class="col">
+                            <input type="number" name="minPrice" class="form-control form-control-lg" placeholder="Từ" value="@ViewBag.MinPrice" min="0" step="1000" />
+                        </div>
+                        <div class="col">
+                            <input type="number" name="maxPrice" class="form-control form-control-lg" placeholder="Đến" value="@ViewBag.MaxPrice" min="0" step="1000" />
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sắp xếp theo giá -->
+                <div class="col-md-3">
+                    <label class="form-label fw-semibold text-dark">Sắp xếp theo giá</label>
+                    <select name="sortOrder" class="form-select form-select-lg" onchange="this.form.submit()">
+                        <option value="">Mặc định</option>
+                        @if (ViewBag.SortOrder == "price_asc")
+                        {
+                            <option value="price_asc" selected>Giá thấp - cao</option>
+                        }
+                        else
+                        {
+                            <option value="price_asc">Giá thấp - cao</option>
+                        }
+                        @if (ViewBag.SortOrder == "price_desc")
+                        {
+                            <option value="price_desc" selected>Giá cao - thấp</option>
+                        }
+                        else
+                        {
+                            <option value="price_desc">Giá cao - thấp</option>
+                        }
+                    </select>
+                </div>
+            </div>
+
+            <!-- Nút lọc và xóa bộ lọc -->
+            <div class="filter-buttons text-end mt-3">
+                <button type="submit" class="btn btn-primary-custom px-4 py-2 shadow-sm me-2">
+                    <i class="fas fa-filter me-1"></i> Lọc
+                </button>
+                <a asp-action="Index" class="btn btn-secondary-custom px-4 py-2 shadow-sm">
+                    <i class="fas fa-undo me-1"></i> Xóa bộ lọc
+                </a>
+            </div>
+        </form>
+    </div>
+
+    <!-- Danh sách sản phẩm -->
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center shadow-sm rounded">
+            <i class="fas fa-info-circle me-2"></i> Không có sản phẩm nào phù hợp với bộ lọc.
+        </div>
+    }
+    else
+    {
+        <div class="product-grid">
+            @foreach (var item in Model)
+            {
+                <div class="product-card">
+                    @if (!string.IsNullOrEmpty(item.ImageUrl))
+                    {
+                        <img src="@item.ImageUrl" alt="@item.Name" class="product-img" />
+                    }
+                    else
+                    {
+                        <div class="bg-light d-flex align-items-center justify-content-center" style="height: 200px; border-radius: 8px;">
+                            <span class="text-muted">Không có hình ảnh</span>
+                        </div>
+                    }
+                    <h3 class="mt-3">@item.Name</h3>
+                    <div class="price">
+                        <!-- Luôn hiển thị giá gốc màu đỏ -->
+                        <div class="original-price">
+                            @if (item.DiscountPercentage.HasValue && item.DiscountPercentage > 0)
+                            {
+                                <span class="text-danger text-decoration-line-through">@item.Price.ToString("#,##0") đ</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger fw-bold">@item.Price.ToString("#,##0") đ</span>
+                            }
+                        </div>
+                        <!-- Hiển thị giá khuyến mãi nếu có -->
+                        @if (item.DiscountPercentage.HasValue && item.DiscountPercentage > 0)
+                        {
+                            <span class="badge bg-danger mb-2">Giảm @item.DiscountPercentage%</span>
+                            <div class="discounted-price">
+                                <strong class="text-success fw-bold">@item.DiscountPrice.Value.ToString("#,##0") đ</strong>
+                            </div>
+                        }
+                    </div>
+                    <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@item.Id">
+                        <button class="btn btn-primary-custom">Thêm vào giỏ</button>
+                    </a>
+                </div>
+            }
+        </div>
+
+        <!-- Phân trang -->
+        @if (ViewBag.TotalPages > 1)
+        {
+            <nav aria-label="Page navigation" class="mt-5">
+                <ul class="pagination justify-content-center">
+                    <li class="page-item @(ViewBag.PageNumber == 1 ? "disabled" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-categoryId="@ViewBag.CategoryId" asp-route-searchString="@ViewBag.SearchString" asp-route-minPrice="@ViewBag.MinPrice" asp-route-maxPrice="@ViewBag.MaxPrice" asp-route-sortOrder="@ViewBag.SortOrder" asp-route-pageNumber="@(ViewBag.PageNumber - 1)">Previous</a>
+                    </li>
+                    @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                    {
+                        <li class="page-item @(ViewBag.PageNumber == i ? "active" : "")">
+                            <a class="page-link" asp-action="Index" asp-route-categoryId="@ViewBag.CategoryId" asp-route-searchString="@ViewBag.SearchString" asp-route-minPrice="@ViewBag.MinPrice" asp-route-maxPrice="@ViewBag.MaxPrice" asp-route-sortOrder="@ViewBag.SortOrder" asp-route-pageNumber="@i">@i</a>
+                        </li>
+                    }
+                    <li class="page-item @(ViewBag.PageNumber == ViewBag.TotalPages ? "disabled" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-categoryId="@ViewBag.CategoryId" asp-route-searchString="@ViewBag.SearchString" asp-route-minPrice="@ViewBag.MinPrice" asp-route-maxPrice="@ViewBag.MaxPrice" asp-route-sortOrder="@ViewBag.SortOrder" asp-route-pageNumber="@(ViewBag.PageNumber + 1)">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        }
+    }
+</section>
+
+<style>
+    .product-section {
+        padding: 40px 0;
+    }
+
+    .text-primary {
+        color: #4682b4 !important;
+    }
+
+    .text-danger {
+        color: #dc3545 !important;
+    }
+
+    .text-success {
+        color: #28a745 !important;
+    }
+
+    .text-dark {
+        color: #2d3436 !important;
+    }
+
+    /* Style cho form lọc */
+    .filter-section {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-select-lg, .form-control-lg {
+        font-size: 1.1rem;
+        padding: 10px 15px;
+        border-radius: 8px;
+        border: 1px solid #ced4da;
+        transition: all 0.3s ease;
+    }
+
+        .form-select-lg:focus, .form-control-lg:focus {
+            border-color: #4682b4;
+            box-shadow: 0 0 8px rgba(70, 130, 180, 0.3);
+        }
+
+    /* Style cho nút Lọc và Xóa bộ lọc */
+    .filter-buttons {
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+    }
+
+    .btn-primary-custom {
+        background-color: #ff99cc; /* Màu hồng nhạt như trong hình */
+        border-color: #ff99cc;
+        color: #fff;
+        font-size: 1.05rem;
+        font-weight: 500;
+        border-radius: 20px; /* Làm tròn nút */
+        padding: 8px 20px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-primary-custom:hover {
+            background-color: #ff80bf;
+            border-color: #ff80bf;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    .btn-secondary-custom {
+        background-color: #6c757d;
+        border-color: #6c757d;
+        color: #fff;
+        font-size: 1.05rem;
+        font-weight: 500;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+        .btn-secondary-custom:hover {
+            background-color: #5a6268;
+            border-color: #5a6268;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    /* Style cho alert */
+    .alert-info {
+        border-radius: 8px;
+        font-size: 1.05rem;
+        padding: 15px;
+        margin-bottom: 25px;
+        background-color: #d1ecf1;
+        color: #0c5460;
+        border: 1px solid #bee5eb;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Style cho product grid */
+    .product-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 20px 0;
+    }
+
+    .product-card {
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        transition: all 0.3s ease;
+    }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+
+    .product-img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+    }
+
+    .product-card h3 {
+        font-size: 1.2rem;
+        margin: 15px 0;
+        color: #2d3436;
+    }
+
+    .product-card .price {
+        font-size: 1.1rem;
+        margin-bottom: 15px;
+    }
+
+    .original-price, .discounted-price {
+        display: block;
+        margin: 5px 0;
+    }
+
+    .badge {
+        font-size: 0.9rem;
+        padding: 5px 10px;
+        border-radius: 12px;
+    }
+
+    /* Style cho phân trang */
+    .pagination .page-link {
+        color: #ff99cc;
+        border: 1px solid #e0e0e0;
+        margin: 0 5px;
+        border-radius: 5px;
+    }
+
+    .pagination .page-item.active .page-link {
+        background-color: #ff99cc;
+        border-color: #ff99cc;
+        color: #fff;
+    }
+
+    .pagination .page-item.disabled .page-link {
+        color: #ccc;
+    }
+
+    .pagination .page-link:hover {
+        background-color: #f1f5f9;
+        border-color: #ff99cc;
+        color: #ff80bf;
+    }
+</style>

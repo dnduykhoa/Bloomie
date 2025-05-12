@@ -1,0 +1,338 @@
+﻿@model Bloomie.ViewModels.CheckoutViewModel
+
+@{
+    ViewData["Title"] = "Thông tin đơn hàng";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4"><i class="bi bi-truck"></i> Thông tin đơn hàng</h2>
+
+    @if (!string.IsNullOrEmpty(TempData["ErrorMessage"] as string))
+    {
+        <div class="alert alert-danger text-center" role="alert">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <form asp-action="Checkout" method="post" id="checkoutForm" class="needs-validation" novalidate>
+        <div class="card p-4 shadow-sm">
+            <h4 class="mb-3">Chi tiết đơn hàng</h4>
+            @if (Model?.CartItems != null && Model.CartItems.Any())
+            {
+                <ul class="list-group mb-3">
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            @item.Name (x @item.Quantity)
+                            <span class="text-danger">@(item.Price * item.Quantity) đ</span>
+                        </li>
+                    }
+                    <li class="list-group-item d-flex justify-content-between align-items-center fw-bold">
+                        Tổng tiền sản phẩm
+                        <span class="text-danger">@Model.TotalPrice.ToString("#,##0") đ</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center fw-bold">
+                        Phí vận chuyển
+                        <span class="text-danger" id="shipping-cost">@Model.ShippingCost.ToString("#,##0") đ</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center fw-bold">
+                        Tổng thanh toán
+                        <span class="text-danger" id="total-payment">@((Model.TotalPrice + Model.ShippingCost).ToString("#,##0")) đ</span>
+                    </li>
+                </ul>
+                <p class="text-muted small">Phí vận chuyển sẽ tự động cập nhật khi bạn chọn tỉnh, quận, và phường.</p>
+                <input type="hidden" asp-for="ShippingCost" id="shippingCostInput" value="@Model.ShippingCost" />
+            }
+            else
+            {
+                <p class="text-muted">Giỏ hàng của bạn trống.</p>
+            }
+
+            <h4 class="mt-4 mb-3">Thông tin người gửi</h4>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="SenderName" class="form-label">Tên người gửi <span class="text-danger">*</span></label>
+                    <input asp-for="SenderName" class="form-control" required maxlength="100" />
+                    <span asp-validation-for="SenderName" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="SenderEmail" class="form-label">Email <span class="text-danger">*</span></label>
+                    <input asp-for="SenderEmail" type="email" class="form-control" required />
+                    <span asp-validation-for="SenderEmail" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label asp-for="SenderPhoneNumber" class="form-label">Số điện thoại <span class="text-danger">*</span></label>
+                    <input asp-for="SenderPhoneNumber" class="form-control" required pattern="[0-9]{10,11}" maxlength="11" />
+                    <span asp-validation-for="SenderPhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-check mb-3">
+                <input type="checkbox" class="form-check-input" asp-for="IsSenderReceiverSame" id="sameAsSender" />
+                <label class="form-check-label" for="sameAsSender">Bạn là người nhận</label>
+            </div>
+
+            <div id="receiverFields" class="row" style="display: none;">
+                <h4 class="mb-3">Thông tin người nhận</h4>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="ReceiverName" class="form-label">Tên người nhận</label>
+                    <input asp-for="ReceiverName" class="form-control" maxlength="100" />
+                    <span asp-validation-for="ReceiverName" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="ReceiverPhoneNumber" class="form-label">Số điện thoại</label>
+                    <input asp-for="ReceiverPhoneNumber" class="form-control" pattern="[0-9]{10,11}" maxlength="11" />
+                    <span asp-validation-for="ReceiverPhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label asp-for="ReceiverEmail" class="form-label">Email</label>
+                    <input asp-for="ReceiverEmail" type="email" class="form-control" />
+                    <span asp-validation-for="ReceiverEmail" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Chọn</label>
+                <select class="css_select" id="tinh" name="tinh" title="Chọn Tỉnh Thành">
+                    <option value="0">Tỉnh Thành</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Chọn</label>
+                <select class="css_select" id="quan" name="quan" title="Chọn Quận Huyện">
+                    <option value="0">Quận Huyện</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label>Chọn</label>
+                <select class="css_select" id="phuong" name="phuong" title="Chọn Phường Xã">
+                    <option value="0">Phường Xã</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ShippingAddress" class="form-label">Địa chỉ giao hàng <span class="text-danger">*</span></label>
+                <textarea asp-for="ShippingAddress" class="form-control" required maxlength="500"></textarea>
+                <span asp-validation-for="ShippingAddress" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="ShippingMethod" class="form-label">Phương thức giao hàng <span class="text-danger">*</span></label>
+                <select asp-for="ShippingMethod" class="form-select" required>
+                    <option value="">Chọn phương thức giao hàng</option>
+                    <option value="Standard">Giao hàng tiêu chuẩn (2-5 ngày)</option>
+                    <option value="Express">Giao hàng nhanh (1-2 ngày)</option>
+                </select>
+                <span asp-validation-for="ShippingMethod" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PaymentMethod" class="form-label">Phương thức thanh toán <span class="text-danger">*</span></label>
+                <select asp-for="PaymentMethod" class="form-select" required>
+                    <option value="">Chọn phương thức thanh toán</option>
+                    <option value="CashOnDelivery">Thanh toán khi nhận hàng</option>
+                    <option value="Vnpay">Thanh toán qua VnPay</option>
+                    <option value="Momo">Thanh toán qua Momo</option>
+                </select>
+                <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Notes" class="form-label">Ghi chú</label>
+                <textarea asp-for="Notes" class="form-control" maxlength="500" placeholder="Ghi chú cho đơn hàng (nếu có)"></textarea>
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 py-2 fw-bold">
+                <i class="bi bi-check-circle me-2"></i> Xác nhận đặt hàng
+            </button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script>
+        // Hàm tính phí vận chuyển và cập nhật tổng thanh toán
+        function calculateShipping() {
+            var tinh = $("#tinh").find('option:selected').text();
+            var quan = $("#quan").find('option:selected').text();
+            var phuong = $("#phuong").find('option:selected').text();
+
+            // Kiểm tra xem đã chọn đủ tỉnh, quận, phường chưa
+            if (tinh === 'Tỉnh Thành' || quan === 'Quận Huyện' || phuong === 'Phường Xã' || tinh === '' || quan === '' || phuong === '') {
+                $("#shipping-cost").text("0 đ");
+                $("#shippingCostInput").val(0);
+                updateTotalPayment(0);
+                return;
+            }
+
+            // Gọi API tính phí vận chuyển
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("GetShipping", "Order")",
+                data: { tinh: tinh, quan: quan, phuong: phuong },
+                success: function (result) {
+                    if (result && result.shippingPrice) {
+                        $("#shipping-cost").text(result.shippingPrice.toLocaleString('vi-VN') + " đ");
+                        $("#shippingCostInput").val(result.shippingPrice); // Cập nhật giá trị ẩn
+                        updateTotalPayment(result.shippingPrice);
+                    } else {
+                        $("#shipping-cost").text("0 đ");
+                        $("#shippingCostInput").val(0);
+                        updateTotalPayment(0);
+                        Swal.fire("Lỗi", "Không thể tính phí vận chuyển. Vui lòng thử lại.", "error");
+                    }
+                },
+                error: function (xhr, status, error) {
+                    console.log("AJAX Error: " + status + " - " + error);
+                    $("#shipping-cost").text("0 đ");
+                    $("#shippingCostInput").val(0);
+                    updateTotalPayment(0);
+                    Swal.fire("Lỗi", "Có lỗi xảy ra khi tính phí vận chuyển.", "error");
+                }
+            });
+        }
+
+        // Hàm cập nhật tổng thanh toán
+        function updateTotalPayment(shippingCost) {
+            var totalPrice = parseFloat('@Model.TotalPrice'.replace(/[^0-9.-]+/g,"")) || 0; // Lấy giá trị số từ TotalPrice
+            var totalPayment = totalPrice + shippingCost;
+            $("#total-payment").text(totalPayment.toLocaleString('vi-VN') + " đ");
+            $("#shippingCostInput").val(shippingCost); // Đảm bảo giá trị trong form luôn đúng
+        }
+
+        $(document).ready(function () {
+            // Toggle receiver fields and sync data
+            $('#sameAsSender').on('change', function () {
+                if ($(this).is(':checked')) {
+                    $('#receiverFields').hide();
+                    $('#ReceiverName').val($('#SenderName').val());
+                    $('#ReceiverPhoneNumber').val($('#SenderPhoneNumber').val());
+                    $('#ReceiverEmail').val($('#SenderEmail').val());
+                    $('#receiverFields input').prop('required', false);
+                } else {
+                    $('#receiverFields').show();
+                    $('#ReceiverName').prop('required', true);
+                    $('#ReceiverPhoneNumber').prop('required', true);
+                    $('#ReceiverEmail').prop('required', false);
+                    $('#ReceiverName').val('');
+                    $('#ReceiverPhoneNumber').val('');
+                    $('#ReceiverEmail').val('');
+                }
+            });
+
+            // Sync sender data to receiver in real-time
+            $('#SenderName, #SenderEmail, #SenderPhoneNumber').on('input', function () {
+                if ($('#sameAsSender').is(':checked')) {
+                    $('#ReceiverName').val($('#SenderName').val());
+                    $('#ReceiverPhoneNumber').val($('#SenderPhoneNumber').val());
+                    $('#ReceiverEmail').val($('#SenderEmail').val());
+                }
+            });
+
+            // Trigger initial state
+            $('#sameAsSender').trigger('change');
+
+            // Custom validation for checkout form
+            $('#checkoutForm').validate({
+                rules: {
+                    SenderName: { required: true, maxlength: 100 },
+                    SenderEmail: { required: true, email: true },
+                    SenderPhoneNumber: { required: true, digits: true, minlength: 10, maxlength: 11 },
+                    ReceiverName: { required: function () { return !$('#sameAsSender').is(':checked'); }, maxlength: 100 },
+                    ReceiverPhoneNumber: { required: function () { return !$('#sameAsSender').is(':checked'); }, digits: true, minlength: 10, maxlength: 11 },
+                    ReceiverEmail: { email: true },
+                    ShippingAddress: { required: true, maxlength: 500 },
+                    ShippingMethod: { required: true },
+                    PaymentMethod: { required: true }
+                },
+                messages: {
+                    SenderName: { required: "Vui lòng nhập tên người gửi.", maxlength: "Tên không được vượt quá 100 ký tự." },
+                    SenderEmail: { required: "Vui lòng nhập email.", email: "Vui lòng nhập email hợp lệ." },
+                    SenderPhoneNumber: { required: "Vui lòng nhập số điện thoại.", digits: "Số điện thoại chỉ chứa số.", minlength: "Số điện thoại phải có ít nhất 10 số.", maxlength: "Số điện thoại không được vượt quá 11 số." },
+                    ReceiverName: { required: "Vui lòng nhập tên người nhận.", maxlength: "Tên không được vượt quá 100 ký tự." },
+                    ReceiverPhoneNumber: { required: "Vui lòng nhập số điện thoại người nhận.", digits: "Số điện thoại chỉ chứa số.", minlength: "Số điện thoại phải có ít nhất 10 số.", maxlength: "Số điện thoại không được vượt quá 11 số." },
+                    ReceiverEmail: { email: "Vui lòng nhập email hợp lệ." },
+                    ShippingAddress: { required: "Vui lòng nhập địa chỉ giao hàng.", maxlength: "Địa chỉ không được vượt quá 500 ký tự." },
+                    ShippingMethod: { required: "Vui lòng chọn phương thức giao hàng." },
+                    PaymentMethod: { required: "Vui lòng chọn phương thức thanh toán." }
+                },
+                errorPlacement: function (error, element) {
+                    error.appendTo(element.next('.text-danger'));
+                },
+                submitHandler: function (form) {
+                    if ($('#sameAsSender').is(':checked')) {
+                        $('#ReceiverName').val($('#SenderName').val());
+                        $('#ReceiverPhoneNumber').val($('#SenderPhoneNumber').val());
+                        $('#ReceiverEmail').val($('#SenderEmail').val());
+                    }
+                    form.submit();
+                }
+            });
+
+            // Lấy tỉnh thành
+            $.getJSON('https://esgoo.net/api-tinhthanh/1/0.htm', function (data_tinh) {
+                if (data_tinh.error == 0) {
+                    $.each(data_tinh.data, function (key_tinh, val_tinh) {
+                        $("#tinh").append('<option value="' + val_tinh.id + '">' + val_tinh.full_name + '</option>');
+                    });
+
+                    $("#tinh").change(function (e) {
+                        var idtinh = $(this).val();
+                        // Lấy quận huyện
+                        $.getJSON('https://esgoo.net/api-tinhthanh/2/' + idtinh + '.htm', function (data_quan) {
+                            if (data_quan.error == 0) {
+                                $("#quan").html('<option value="0">Quận Huyện</option>');
+                                $("#phuong").html('<option value="0">Phường Xã</option>');
+                                $.each(data_quan.data, function (key_quan, val_quan) {
+                                    $("#quan").append('<option value="' + val_quan.id + '">' + val_quan.full_name + '</option>');
+                                });
+
+                                // Lấy phường xã
+                                $("#quan").change(function (e) {
+                                    var idquan = $(this).val();
+                                    $.getJSON('https://esgoo.net/api-tinhthanh/3/' + idquan + '.htm', function (data_phuong) {
+                                        if (data_phuong.error == 0) {
+                                            $("#phuong").html('<option value="0">Phường Xã</option>');
+                                            $.each(data_phuong.data, function (key_phuong, val_phuong) {
+                                                $("#phuong").append('<option value="' + val_phuong.id + '">' + val_phuong.full_name + '</option>');
+                                            });
+                                            // Tính phí vận chuyển khi chọn phường
+                                            calculateShipping();
+                                        }
+                                    });
+                                    // Tính phí vận chuyển khi chọn quận
+                                    calculateShipping();
+                                });
+                                // Tính phí vận chuyển khi chọn tỉnh
+                                calculateShipping();
+                            }
+                        });
+                        // Tính phí vận chuyển khi chọn tỉnh
+                        calculateShipping();
+                    });
+
+                    // Gắn sự kiện change cho phường để tính phí vận chuyển
+                    $("#phuong").change(function () {
+                        calculateShipping();
+                    });
+                }
+            });
+
+            // Khởi tạo giá trị ban đầu
+            var initialShippingCost = parseFloat('@Model.ShippingCost'.replace(/[^0-9.-]+/g,"")) || 0;
+            $("#shipping-cost").text(initialShippingCost.toLocaleString('vi-VN') + " đ");
+            $("#shippingCostInput").val(initialShippingCost);
+            updateTotalPayment(initialShippingCost);
+        });
+    </script>
+}

@@ -1,0 +1,73 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Hồ sơ - Bloomie";
+    ViewData["ActivePage"] = ManageNavPages.Index;
+    Layout = "~/Views/Shared/_IdentityLayout.cshtml";
+}
+
+<!-- Thêm style cục bộ nếu cần (tùy chọn, tốt nhất là di chuyển vào file CSS chung) -->
+<style>
+    .profile-section h3 {
+        font-size: 1.8rem;
+        font-weight: 600;
+        color: #ff9999;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .form-floating input {
+        border-radius: 10px;
+        border: 1px solid #e0e0e0;
+        padding: 12px 15px;
+        font-size: 0.9rem;
+        background: #fffafa;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-floating input:focus {
+            border-color: #ffb6c1;
+            background: white;
+        }
+
+        .form-floating input:disabled {
+            background: #f5f5f5;
+            opacity: 0.7;
+        }
+
+    .btn-primary {
+        background-color: #ffb6c1;
+        border: none;
+        border-radius: 30px;
+        padding: 12px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #ff8c99;
+        }
+</style>
+
+<div class="profile-section">
+    <h3>Hồ sơ của bạn</h3>
+    <partial name="_StatusMessage" model="Model.StatusMessage" />
+    <form id="profile-form" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+        <div class="form-floating mb-3">
+            <input asp-for="Username" class="form-control" placeholder="Tên người dùng" disabled />
+            <label asp-for="Username">Tên người dùng</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input asp-for="Input.PhoneNumber" class="form-control" placeholder="Số điện thoại" />
+            <label asp-for="Input.PhoneNumber">Số điện thoại</label>
+            <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+        </div>
+        <button id="update-profile-button" type="submit" class="w-100 btn btn-primary">Lưu</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
